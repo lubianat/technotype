@@ -30,7 +30,7 @@ HUBMAP
 inductional
 inductionally
 infratype
-Infratypes
+infratypes
 ionocyte
 Junqueira
 Kuhnian
@@ -58,7 +58,7 @@ rigourousness
 São
 sensu
 speficicaton
-Stricto
+stricto
 subclasses
 subpopulation
 subtype
