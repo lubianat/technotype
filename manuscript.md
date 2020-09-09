@@ -1,99 +1,20 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Tiago Lubiana
 bibliography:
 - content/manual-references.json
 date-meta: '2020-09-09'
-header-includes: '<!--
-
-  Manubot generated metadata rendered from header-includes-template.html.
-
-  Suggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html
-
-  -->
-
-  <meta name="dc.format" content="text/html" />
-
-  <meta name="dc.title" content="Manuscript Title" />
-
-  <meta name="citation_title" content="Manuscript Title" />
-
-  <meta property="og:title" content="Manuscript Title" />
-
-  <meta property="twitter:title" content="Manuscript Title" />
-
-  <meta name="dc.date" content="2020-09-09" />
-
-  <meta name="citation_publication_date" content="2020-09-09" />
-
-  <meta name="dc.language" content="en-US" />
-
-  <meta name="citation_language" content="en-US" />
-
-  <meta name="dc.relation.ispartof" content="Manubot" />
-
-  <meta name="dc.publisher" content="Manubot" />
-
-  <meta name="citation_journal_title" content="Manubot" />
-
-  <meta name="citation_technical_report_institution" content="Manubot" />
-
-  <meta name="citation_author" content="John Doe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <meta name="twitter:creator" content="@johndoe" />
-
-  <meta name="citation_author" content="Jane Roe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <link rel="canonical" href="https://lubianat.github.io/technotype/" />
-
-  <meta property="og:url" content="https://lubianat.github.io/technotype/" />
-
-  <meta property="twitter:url" content="https://lubianat.github.io/technotype/" />
-
-  <meta name="citation_fulltext_html_url" content="https://lubianat.github.io/technotype/" />
-
-  <meta name="citation_pdf_url" content="https://lubianat.github.io/technotype/manuscript.pdf" />
-
-  <link rel="alternate" type="application/pdf" href="https://lubianat.github.io/technotype/manuscript.pdf" />
-
-  <link rel="alternate" type="text/html" href="https://lubianat.github.io/technotype/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/" />
-
-  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/technotype/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/" />
-
-  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/technotype/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/manuscript.pdf" />
-
-  <meta property="og:type" content="article" />
-
-  <meta property="twitter:card" content="summary_large_image" />
-
-  <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
-
-  <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
-
-  <meta name="theme-color" content="#ad1457" />
-
-  <!-- end Manubot generated metadata -->'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Towards a pragmatic definition of cell type.\" />\n<meta name=\"citation_title\" content=\"Towards a pragmatic definition of cell type.\" />\n<meta property=\"og:title\" content=\"Towards a pragmatic definition of cell type.\" />\n<meta property=\"twitter:title\" content=\"Towards a pragmatic definition of cell type.\" />\n<meta name=\"dc.date\" content=\"2020-09-09\" />\n<meta name=\"citation_publication_date\" content=\"2020-09-09\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Computational Systems Biology Laboratory, University of S\xE3o Paulo\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/technotype/v/4243411e9208a5a0530e8a85c20851096535549d/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/technotype/v/4243411e9208a5a0530e8a85c20851096535549d/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/technotype/v/4243411e9208a5a0530e8a85c20851096535549d/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
-- markdown
-- publishing
-- manubot
+- cell type
+- nomenclature
+- classification
 lang: en-US
 manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: Towards a pragmatic definition of cell type.
 ...
 
 
@@ -103,9 +24,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://lubianat.github.io/technotype/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/))
+([permalink](https://lubianat.github.io/technotype/v/4243411e9208a5a0530e8a85c20851096535549d/))
 was automatically generated
-from [lubianat/technotype@0964fd7](https://github.com/lubianat/technotype/tree/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc)
+from [lubianat/technotype@4243411](https://github.com/lubianat/technotype/tree/4243411e9208a5a0530e8a85c20851096535549d)
 on September 9, 2020.
 </em></small>
 
@@ -113,25 +34,13 @@ on September 9, 2020.
 
 
 
-+ **John Doe**<br>
++ **Tiago Lubiana**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0003-2473-2313](https://orcid.org/0000-0003-2473-2313)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [lubianat](https://github.com/lubianat)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Computational Systems Biology Laboratory, University of São Paulo
   </small>
 
 
@@ -141,301 +50,135 @@ on September 9, 2020.
 
 
 
-This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
-Use this template as a starting point for your manuscript.
+One of the first classes in any undergraduate major in biomedical sciences is the histology. The students are tasked with identifying cell types accross a range of tissues, looking for color and shape patterns in hematoxylin-eosin stains. The text-books, such as the one by Junqueira & Carneiro, work as "manuals" (in the Kuhnian sense) perpetuating our paradigms of this set of a couple hundred cell types that define the cells in human beings. 
 
-The rest of this document is a full list of formatting elements/features supported by Manubot.
-Compare the input (`.md` files in the `/content` directory) to the output you see below.
+This anatomy based conceptualization, however, has been constantly challenged by new techniques. The development of techniniques to study cells in the individual level, from multiplexed flow cytometry to patch clamping, opened our eyes for an amazing diversity. With a burst of new categories, novel cell "subtypes" and "families" started to pop up in the literature, enriching our view. This has become specially evident in the past few years, with the explosion of single-cell omics, and the rise of the Human Cell Atlas and the HUBMAP projects. 
 
-## Basic formatting
 
-**Bold** __text__
+Eventhough our technologies diversified, our conceptualization of cell types are still based on century-old histochemical techniques, such as the aforementioned Hematoxylin-eosin staining and Golgi-stainings (imortalized in the drawings of Santiago Ramon y Cajal). We refer to cell types as anatomical entities, as if they were clearly dissectable and fixed in an organism. However, there has not yet been one single definition of cell type that could unite views accross fields, even if for strictly pragmatic purposes.
 
-[Semi-bold text]{.semibold}
 
-[Centered text]{.center}
+The advances in computation and the large scale biology, however, requires us to find better alternatives for the answer of what a cell type is. Even if a ontological definition of a "true" cell type is unrealistic, we can strive to find nominal, pragmatic definitions for the pragmatic challenges of large scale biology. Otherwise, how can we proper label single-cell data? How can we judge claims of discovery of cell types? How can we integrate the knowledge from the millions of scientific articles published every year? 
 
-[Right-aligned text]{.right}
 
-*Italic* _text_
+This need for conceptual work is clear, and a number of interesting proposals are arising. Arendt et al has focused on the evolutionary perspective of a cell type: by treating the cell type as an evolutionary unit defined by a Core Regulatory Complex (CoRC) of transcription factors, this view has enabled powerful parallels with the evolution of genes and species. Models of how multicelular life works greatly benefit from concepts such as "sister types", "cell type homology" and "cell type convergence." 
 
-Combined *italics and __bold__*
+However, iIn an analogous way to how different concepts of species serve better different research programs, our quest to define cell types benefits from an orientation. The challenge of representing cell types in the context of evolution is  conceptually different from representing cell types in the context of biomedical experimentation. The Cell Ontology project and the International Workshop on Cells in ExperimentaL Life Sciences have been doing important groundwork, that base many of the discussions that will be presented in this article. 
 
-~~Strikethrough~~
 
-1. Ordered list item
-2. Ordered list item
-    a. Sub-item
-    b. Sub-item
-        i. Sub-sub-item
-3. Ordered list item
-    a. Sub-item
+In this work, the scope of the quest is the one of research synthesis. How to find a cell type definition that allows rigorous description of biomedical knowledge experiments?
 
-- List item
-- List item
-- List item
+For that goal, this article is divided in the following parts. In Part 1, I will bring a proposal of a set of rules that are sufficient for defining  cell types. In Part 2, I'll propose a small set of names for differentiating main classes of cell types. In Part 3, I will adress the logical consequences of the proposed definitions. And in Part 4, I will discuss the pragmatic challenges for employing such definitions.
 
-subscript: H~2~O is a liquid
+# A set of 3 + 1 rules for defining a cell type
 
-superscript: 2^10^ is 1024.
+In an opinion article published in Cell Systems in 2017, prominent researchers presented their views on  the "Conceptual Definition of ‘‘Cell Type’’in the Context of a Mature Organism?" If one consensus could be reached is that the task is widely open. From ditching the concept altogether, to conceptually exploring \textit{C. elegans}(a species in which we know the exact number and place of each cell expect in an adult) to ecological definitions of cell types, the work makes it clear how hard it is to find rules that would please all the community. Many advocate for a core role of the cells'function in defining cell types, a slippery road, as the meaning of "function" in biology is elusive. 
 
-[unicode superscripts](https://www.google.com/search?q=superscript+generator)⁰¹²³⁴⁵⁶⁷⁸⁹
+Aevermann et al (2018) come up with a set of rules to classifiy samples in  single cell RNA-Seq, based on consisted  of "The minimum set of necessary and sufficient marker genes selectively expressed by the cell type", "A parent cell class in the CL", and "A specimen source description (anatomic structure þ species)." This conceptual advance is pratically important, solving many of the issues raised before by Bakken et al (2017) and others. The Cell Ontology also has used gene and protein markers as descriptors for defining cell types.   
 
-[unicode subscripts](https://www.google.com/search?q=superscript+generator)₀₁₂₃₄₅₆₇₈₉
+The use of markers, however, leaves us with a conceptual problem, when we want find a global definitions: definitions of cell type used by electrophysiologists, or even in the Kuhnian manuals of histology classes, are not based on markers. Rigorously, this would leave aside a whole part of what we consider biomedical knowledge. Moreover, markers are not, strictu sensu, defined for cell types that span multiple species, requiring us ton consider homology. This adds an extra layer of confusion that will be adressed partially in Part 2. 
 
-A long paragraph of text.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My pragmatic definition of cell type (for eukaryotic, multicellular organisms) consists in 3+1 simple rules. A cell type is any class of cells which must be:
+- Rigorously defined
+- Theoretically useful 
+- Identifiable for a defined taxon
 
-Putting each sentence on its own line has numerous benefits with regard to [editing](https://asciidoctor.org/docs/asciidoc-recommended-practices/#one-sentence-per-line) and [version control](https://rhodesmill.org/brandon/2012/one-sentence-per-line/).
+And that should be:
+- Logically related to other cell types
 
-Line break without starting a new paragraph by putting  
-two spaces at end of line.
+In the following paragraphs, I will clarify the meaning and motivation of the rules.
 
-## Document organization
+For rule 1, by "rigorously defined", I mean that a cell can be identified as belonging or not to the class given a set of criteria and we should be able to identify a cell from its cell type in any individual that matches the rigorous criteria. An example of such a rigorous criteria is "expression of the CD3 protein, expression of the CD4 protein, lack of expression of the CD8 protein." This implies the need for using rigorous definitions of what is a "CD3 protein" and what "expression" means, but it is feasible to have nominal definitions. Actually, in practice, similar criteria are used in immunology for defining cell types. 
 
-Document section headings:
+Rule number 2  is a speficicaton of a  rigourousness: one rigorousness criteria is to define the taxons in which a given cell type is expected to have manifestations. I will call this set of taxons the \textit{scope} of the cell type.
 
-# Heading 1
+Knowing the scope is inmportance to avoid the pitfalls of assuming that theories corroborrated with mice experiments are valid for other organisms. This is an instance of the classic problem of induction, which subsists much of the core arguments of Logic of Scientific Discovery. An speficication of the defined would make inductional claims explicit.
 
-## Heading 2
+These differences across species are currently left implicit, and it is not uncommon to find scientific abstracts that don't mention a species at all. 
 
-### Heading 3
+Currently, the largest authority on cell type defintions, the Cell Ontology, provides "multispecies" definitions of cell types. These are conceptually important. However, labeling studies plainly with such concepts is dangerous. It is not safe to assume that a "mouse neutrophil" is simply a "neutrophil" that happens to be in a "mouse". According to the rules of logic, combinations of "multispecies" cell types and specific taxons make up new concepts. 
 
-#### Heading 4
+By providing a specific scope, we can make explicit what are currently implicit predictions. A question "Do whales lack neutrophils?" is falsifiable, and, intuitively, we would imagine that they have cells that could be classified as neutrophils. However, this question is is only falsifiable if we have a rigorous definition of "neutrophil" across its scope of taxons. Conversely, if we say that "the scope of neutrophils is mammals" we are making a strong prediction that we should find cells of this category in any mammal. If we would apply severe tests to find neutrophils and whales and recurrently fail to identify one matching cell, we would have a good reason to discuss changing our scope of neutrophils. 
 
-##### Heading 5
+Rule number 3 is a rule of practical concern. There is a massive amount of "rigorous classes" that one scientist might come up with, due to the combinatorial nature of classes, far outnumbering the reported number of atoms in the observable universe. For that reason, a criterion of usefullness is necessary for deciding when a class of cells is considered a cell type. The most fair criteria of usefulness is one based on the individual: a valid cell type is whatever class one individual rationally considers useful. 
 
-###### Heading 6
+However, we can be more rigorous in defining usefulness, if we consider rule number 4: a cell type has to be anchored to other cell types. Which means that a definition of class is of negligible usefulness if it can't be considered a "subclass" of other cell type. For our practical concerns, all imaginable cell types are subclasses of "cell of eukaryonts". 
+Note that "human erithrocyte" is a cell type characterized by lack of a nucleus, so depending on your definition of "eukaryotic cell", it would exclude "human erythrocite". Anyways, this anchoring is important for integrating knowledge across studies, because eventhoug a specific "transcriptomically-defined" cell type and a "electrophyisiologically-defined" cell type cannot be rigorously said to be the same, they can be grouped in a "superclass" that contains cells that match either one or the other criteria.
 
-### A heading centered on its own printed page{.center .page_center}
+The consequences of this set of criteria will be discussed further in the following sections. 
 
-<!-- an arbitrary comment. visible in input, but not visible in output. -->
+# Naming classes of cell types
 
-Horizontal rule:
 
----
+Before we proceed to analyse the consequences of the criteria raised on part 1, it is importante to make a set of naming conventions for different classes of cell types. This is required, as much of the literature consider cell types in the context of one species (e.g. when dealing with a cell type as an evolutionary unit) as well as in the context of multispecies (such as in the case of cell ontology).
 
-`Heading 1`'s are recommended to be reserved for the title of the manuscript.
 
-`Heading 2`'s are recommended for broad sections such as *Abstract*, *Methods*, *Conclusion*, etc.
+Current advances in the taxonomy of living beings are calling artificial the classifications of "genus", "families", "order", and similar rankings. While the level of a "species" is somewhat better defined (with discernible theoretical positions, at least), the other categories comprehen only classes of different levels of coverage. In accordance with the theoretical views of the PhyloCode, I consider only the level of "species" on the naming of classes of cell types. The three classes I propose, are: 
 
-`Heading 3`'s and `Heading 4`'s are recommended for sub-sections.
+- Archetypes, for which the scope of the definition is beyond the level of species. For example, "mammal neutrophils". 
+- \textit{Stricto sensu} cell types (or {bona fide} cell types), for which the scope of the definition is exactly one species. For example, "human neutrophils"
+- Infratypes, cell types for which the scope is below the level of species. For example, considering the mouse strain "C57BL/6J", "C57BL/6J neutrophils".
 
-## Links
+These are common uses of "cell type" which are, nevertheless, mixed in practiced. By adopting a more precise vocabulary we can flesh out misunderstadings and communicate clearly. At the level of individual scientific experiments we usually work at the "infratype": the samples come only from a subpopulation of the  species of interest, and cannot be assumed to be "randomly sampled" from all individuals. This has important practical considerations for, once more, avoiding failing implicitly for the problem of induction. 
 
-Bare URL link: <https://manubot.org>
 
-[Long link with lots of words and stuff and junk and bleep and blah and stuff and other stuff and more stuff yeah](https://manubot.org)
+Moreover, in individual experiments, we not only work with infratypes, we work with very specific infratypes, guided by non-random research setups and pragmatic choices. For example, we might call "CD4 T cells" what are actually CD3+, CD4+, CD8+ CELLS from the axilary lymphnode of 2 month old female C57BL6/J mice from the mouse-house of the Institute of Biochemistry of the University of São Paulo collected in the morning around 10 pm for chow-fed ad libitum mice. Albeit really specific, all the mentioned facets (markers, anatomical location, age, biological sex, strain, housing conditions, circadian clock and diet) are known to alter the behaviour of cell types. Thus, it is necessary one more name, flor clarity: 
 
-[Link with text](https://manubot.org)
+- Technotype: A specific, experimentally defined cell type, which harbours on its definitions the exact conditions from which the cell types were sampled. 
 
-[Link with hover text](https://manubot.org "Manubot Homepage")
+Note: a technotype is still a class. Unless a studied used only one single-cell, it likely contained some sampling method, which is the class for which hypothesis are actually tested, for example. This is the most "granular' cell type in our pragmatic view for research synthesis. This is the type that can be strictly annotated in single-cell RNA-seq analysis, for example. 
 
-[Link by reference][manubot homepage]
+Single claims are made and tested for technotypes, and this claims can be logically combined in "upper" ontological levels for making claims with a higher degree of universality. This propagation of knowledge to upper levels, however, should not be implicit. (See Yarkoni2020 for an analogous problem in the psychological sciences). Knowledge should travel "quasi-inductionally" by forstering hypothesis with higher degrees of generality, which can then be tested for the expanded class. 
 
-[Manubot Homepage]: https://manubot.org
+# Logical consequences of the definition
 
-## Citations
+One notable logical consequence of the proposed set of criteria is that the definition of a "cell state" is left aside altogether. For the pragmatic definition adopted here, we explicitly leave aside the dissection of the differences between persistent classes of cells (which I refer to as "traditional cell types") or the transient, fugacious classes of cells (which I refer to as the "traditional cell state". Eventhough such a explicit definition is definitely an important topic of theoretical research, it is not strictly necessary for the framework presented here. 
 
-Citation by DOI [@doi:10.7554/eLife.32822].
+One pratical example is that, by the rules here propose, the class "human cells in metaphase of mitosis" can be considered a cell type, as they can be rigorously defined, are restricted to a taxon and are theoretically useful. Eventhough "metaphase" itself is still a  biological process, we can describe all cells that are executing this process as from a single cell type. 
 
-Citation by PubMed Central ID [@pmc:PMC6103790].
+However, does a dividing fibroblast stop being a fibroblast, even if temporarily? Again, I do not aim to answer this in a physophical-ontological sense. Pragmatically, if the rigorous definition used (e.g. expression of a marker) still holds during duplication, this cell can be assigned to two disjunct classes: "fibroblasts" and "doubling cells"! It is, thus, important to consider that cells can belong to at least 2 disjunct classes . 
 
-Citation by PubMed ID [@pubmed:30718888].
+This has pratical importance. Often, cell types are described taxonomically, as being related in one single hierarchy. However, if we considered that cells can be assigned to disjunct classes, it is not possible to annotate cell types with a single identifier using a taxonomic tree, in which each concept is represented by a single node with one (and only one) direct parent node. 
+Cell types need to be represented ontologically (in the computational sense), which can be though of multiple, intertwinning taxonomies, taking into account different ways of classifying cells. 
 
-Citation by Wikidata ID [@wikidata:Q56458321].
+Another logical consequence of the definition is that concepts of "subtype" become redundant with "cell type". A "subtype" then, is a concept that only makes sense when talking about classes with different degrees of universality. Thus, claims to discover new cell "subtypes" or "types" differ only stylistically and can be considered indistinguishable from the perspective of research synthesis. 
 
-Citation by ISBN [@isbn:9780262517638].
 
-Citation by URL [@https://greenelab.github.io/meta-review/].
+# Practical consequences of the definition
 
-Citation by alias [@deep-review].
 
-Multiple citations can be put inside the same set of brackets [@doi:10.7554/eLife.32822; @deep-review; @isbn:9780262517638].
-Manubot plugins provide easier, more convenient visualization of and navigation between citations [@doi:10.1371/journal.pcbi.1007128; @pubmed:30718888; @pmc:PMC6103790; @deep-review].
+In the previous section, I discussed logical entailments of accepting the set proposed set of rules as valid. Here, I will extend the pragmatic considerations on using such a system for real world applications. 
 
-Citation tags (i.e. aliases) can be defined in their own paragraphs using Markdown's reference link syntax:
+A first pragmatic aplication, already mentioned previously, is that cell type discovery claims can ber organized. With vast amounts of data and loose definition of cell types, it becomes uncannily easy to claim to have discovered a new cell type. If one claims to discover a new "stricto sensu" cell type, one should provide enough evidence that cells from this class are identifiable across all organisms of a species. A claim of an "archetype" should provide evidence in more than one species. And, consequently, experiments that only use a specific strain of mice, can only claim to discover an infratype.
 
-[@deep-review]: doi:10.1098/rsif.2017.0387
+An example of the discovery of a new "archetype" is the pair of articles published in Nature in 2019 about the newly found "ionocyte", a class of cells in the trachea enriched for expression of genes homologous to the \textit{CFTR} gene. Both studies displayed evidence for the existence of such a class in both mouse and human samples, does corroborating the existence of such an archetype. This discovery has been denominated by both articles as a discovery of a new cell type. 
 
-## Referencing figures, tables, equations
+Another example of cell type discovery is an pioneer article by Villani et al that describes subclasses of monocytes and dendritic cells in humans, and pragmatically use markers for their definition. The patients were recruited from "the Boston-based PhenoGenetic project (...) and the Newcastle community." Stricly speaking, it is arguable that they did not have a random sample of humanity, and the observed results might not hold for different populations. Moreover, it is clear that the different "types" described are not being purposed as archetypes. This discovery of infratypes has also been described as a discovery of a new "cell type". 
 
-Figure @fig:square-image
+Thus, by stating the scope of the cell type discovered, and rigorously specifying its characteristics, a claim of discovery can be compared in the light of evidence, very much like it is done for centuries for animal species. However, how can we humanely understand with so many "cell types" with such subtle differences? 
 
-Figure @fig:wide-image
+As described by Sabine Leonelly, the challenges brought up by big data in biology require an advance of our philosophycal ground rules. That is a motivation of this work: the new challenges of cell type representation led to the set of rules presented here. I argue that the opposite eay is also true: to advance the theoretical fundations of biology, we need to harness the computational advances. This can be exemplified by the quest of naming specific cell types.
 
-Figure @fig:tall-image
 
-Figure @fig:vector-image
+For accurately, pragmatically classifying cell types from the perspective of research synthesis, we need rigorous defintions.  These are very specific in nature, and every single empirical article might include a number of unique technotypes. This makes nomenclature a nightmare. How should we differ B Cells that were selected by a slightly different combinations of markers? Well, the task of finding the correct labels is important for human communication, but can be more easily addressed for describing  research.
 
-Table @tbl:bowling-scores
+Classes in ontologies can have numeric identifiers, which are, in practice, what matters from a computational perspective. By assigning each technotype a Unique Resource Identifier, an URI, and by inserting the URI in a knowledge graph, such as the cell ontology, we can start dealing with the complexity of cell types defintion accross biology. Each article and each dataset, then, can explictly declare once which cless they refer by a term (for example, "neutrophil"), so to avoid the ambiguities of natural language, while maintaining readability. 
 
-Equation @eq:regular-equation
+The Cell Ontology currently holds less than 4.000 cell types. The number of rigorous and useful cell types, however, is considerably larger. By the rules fo deductive logic, whenever you combine two classes ("neutrophil" +"human", for example) you give rise to a third class ("human neutrophil", for example). If we consider the possible rigorous descriptors, species, anatomical locations, stages of life, biological sexes, strains, stages in the circadian clock and so on, the possible number of cell types is of many order of magnitudes higher. This presents a logistical challenge, which would require a greater number of active collaborators in extension and maintenanceo of such knowledge base. One solution would be open systems such as Wikidata, where life  scientists could add their technotypes with a low entry barrier. The development of such system is a direction for future research  to operationalize the desciprions here. 
 
-Equation @eq:long-equation
 
-## Quotes and code
+The idea of "technotype", if coupled to the possibility for every researcher to craft their "cell type" of interest, solves a major problem of correctly labeling cell types in single cell experiments. The non-existence of exact matches in CL (even when combined with other ontologies) render it impossible to accurately annotate articles and datasets without incurring in induction issues. As mentioned previously, this would still allow to cross results from different setups, with the gain of explicitly. 
 
-> Quoted text
 
-> Quoted block of text
->
-> Two roads diverged in a wood, and I—  
-> I took the one less traveled by,  
-> And that has made all the difference.
+A branch of computational single-cell development has dedicated itself to find tools for labeling single cell experiments. Some of the approaches have aimed at anchoring the classes used to defintions by the Cell Ontology, both via manual match based on "expert comparison" or via algorithms such as BLAST2CO. By considering technotypes, however, the task conceptually changes not to find a class that "matches" the current experiment, but a candidate class for a "parent" of the described technotype. Albeit subtle, taking this extra layer of consideration can allow more precise conceptualizations of labeling mechanisms and, perhaps, improving the overall performance of such approaches. 
 
-Code `in the middle` of normal text, aka `inline code`.
+# Final remarks
 
-Code block with Python syntax highlighting:
+In this article, I proposed a set of 3 rules (rigourous description,taxon scope restriction and theoretical usefulness) and 1 recommendation (link to ontology of cell types) to pragmatically define classes of cells (cell types). I then followed to propose 4 namings to clarify discussions on the topic: archetypes (a class with a scope above species level), \textit{stricto sensu} cell types (a class with scope equal to  one species), infratypes (a class with scope below the species level) and technotypes (the exact cell type defined for an experimental setup).
 
-```python
-from manubot.cite.doi import expand_short_doi
+In the following sections I dissected some logical entailments of such definition, which might conflic with current view on definitions of cell types. I do not aim at solving such conflicts, but merely propose this as one, out of many possible ways, of organizing our knowledge about cell types. Of note, I would like to highlight the concept of the "technotype" as representing the unit for cell classification, in an analogous way of how the "species" is the unit for evolutionary biology. 
 
-def test_expand_short_doi():
-    doi = expand_short_doi("10/c3bp")
-    # a string too long to fit within page:
-    assert doi == "10.25313/2524-2695-2018-3-vliyanie-enhansera-copia-i-insulyatora-gypsy-na-sintez-ernk-modifikatsii-hromatina-i-svyazyvanie-insulyatornyh-belkov-vtransfetsirovannyh-geneticheskih-konstruktsiyah"
-```
-
-Code block with no syntax highlighting:
-
-```
-Exporting HTML manuscript
-Exporting DOCX manuscript
-Exporting PDF manuscript
-```
-
-## Figures
-
-![
-**A square image at actual size and with a bottom caption.**
-Loaded from the latest version of image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/square.png "Square image"){#fig:square-image}
-
-![
-**An image too wide to fit within page at full size.**
-Loaded from a specific (hashed) version of the image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/wide.png "Wide image"){#fig:wide-image}
-
-![
-**A tall image with a specified height.**
-Loaded from a specific (hashed) version of the image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/tall.png "Tall image"){#fig:tall-image height=3in}
-
-![
-**A vector `.svg` image loaded from GitHub.**
-The parameter `sanitize=true` is necessary to properly load SVGs hosted via GitHub URLs.
-White background specified to serve as a backdrop for transparent sections of the image.
-](https://raw.githubusercontent.com/manubot/resources/master/test/vector.svg?sanitize=true "Vector image"){#fig:vector-image height=2.5in .white}
-
-## Tables
-
-| *Bowling Scores* | Jane          | John          | Alice         | Bob           |
-|:-----------------|:-------------:|:-------------:|:-------------:|:-------------:|
-| Game 1 | 150 | 187 | 210 | 105 |
-| Game 2 |  98 | 202 | 197 | 102 |
-| Game 3 | 123 | 180 | 238 | 134 |
-
-Table: A table with a top caption and specified relative column widths.
-{#tbl:bowling-scores}
-
-|         | Digits 1-33                        | Digits 34-66                      | Digits 67-99                      | Ref.                                                        |
-|:--------|:-----------------------------------|:----------------------------------|:----------------------------------|:------------------------------------------------------------|
-| pi      | 3.14159265358979323846264338327950 | 288419716939937510582097494459230 | 781640628620899862803482534211706 | [`piday.org`](https://www.piday.org/million/)               |
-| e       | 2.71828182845904523536028747135266 | 249775724709369995957496696762772 | 407663035354759457138217852516642 | [`nasa.gov`](https://apod.nasa.gov/htmltest/gifcity/e.2mil) |
-
-Table: A table too wide to fit within page.
-{#tbl:constant-digits}
-
-|          | **Colors** <!-- $colspan="2" --> |                      |
-|:--------:|:--------------------------------:|:--------------------:|
-| **Size** | **Text Color**                   | **Background Color** |
-| big      | blue                             | orange               |
-| small    | black                            | white                |
-
-Table: A table with merged cells using the `attributes` plugin.
-{#tbl: merged-cells}
-
-## Equations
-
-A LaTeX equation:
-
-$$\int_0^\infty e^{-x^2} dx=\frac{\sqrt{\pi}}{2}$$ {#eq:regular-equation}
-
-An equation too long to fit within page:
-
-$$x = a + b + c + d + e + f + g + h + i + j + k + l + m + n + o + p + q + r + s + t + u + v + w + x + y + z + 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9$$ {#eq:long-equation}
-
-## Special
-
-<i class="fas fa-exclamation-triangle"></i> [WARNING]{.semibold} _The following features are only supported and intended for `.html` and `.pdf` exports._
-_Journals are not likely to support them, and they may not display correctly when converted to other formats such as `.docx`._
-
-[Link styled as a button](https://manubot.org "Manubot Homepage"){.button}
-
-Adding arbitrary HTML attributes to an element using Pandoc's attribute syntax:
-
-::: {#some_id_1 .some_class style="background: #ad1457; color: white; margin-left: 40px;" title="a paragraph of text" data-color="white" disabled="true"}
-Manubot Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot.
-Manubot Manubot.
-Manubot.
-:::
-
-Adding arbitrary HTML attributes to an element with the Manubot `attributes` plugin (more flexible than Pandoc's method in terms of which elements you can add attributes to):
-
-Manubot Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot.
-Manubot Manubot.
-Manubot.
-<!-- $id="element_id" class="some_class" $style="color: #ad1457; margin-left: 40px;" $disabled="true" $title="a paragraph of text" $data-color="red" -->
-
-Available background colors for text, images, code, banners, etc:  
-
-`white`{.white}
-`lightgrey`{.lightgrey}
-`grey`{.grey}
-`darkgrey`{.darkgrey}
-`black`{.black}
-`lightred`{.lightred}
-`lightyellow`{.lightyellow}
-`lightgreen`{.lightgreen}
-`lightblue`{.lightblue}
-`lightpurple`{.lightpurple}
-`red`{.red}
-`orange`{.orange}
-`yellow`{.yellow}
-`green`{.green}
-`blue`{.blue}
-`purple`{.purple}
-
-Using the [Font Awesome](https://fontawesome.com/) icon set:
-
-<!-- include the Font Awesome library, per: https://fontawesome.com/start -->
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
-
-<i class="fas fa-check"></i> <i class="fas fa-question"></i> <i class="fas fa-star"></i> <i class="fas fa-bell"></i> <i class="fas fa-times-circle"></i> <i class="fas fa-ellipsis-h"></i>
-
-[
-<i class="fas fa-scroll fa-lg"></i> **Light Grey Banner**<br>
-useful for *general information* - [manubot.org](https://manubot.org/)
-]{.banner .lightgrey}
-
-[
-<i class="fas fa-info-circle fa-lg"></i> **Blue Banner**<br>
-useful for *important information* - [manubot.org](https://manubot.org/)
-]{.banner .lightblue}
-
-[
-<i class="fas fa-ban fa-lg"></i> **Light Red Banner**<br>
-useful for *warnings* - [manubot.org](https://manubot.org/)
-]{.banner .lightred}
-
+This article is intended to clarify some of the meanings, and provide directions to future development of the theoretical basis of cell type definition. The discussion on the definition of cell types is still on its infancy, and we need human power to tackle the huge theoretical challenges. Biologists, philosophers and computer scientists ought to distill the details of defining cell types, powering the Human Cell Atlas and the life sciences research enterprise of this century.  
 
 ## References {.page_break_before}
 
