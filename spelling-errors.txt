@@ -4,7 +4,6 @@ adressed
 Aevermann
 analyse
 aplication
-Arendt
 axilary
 Bakken
 behaviour
@@ -50,12 +49,10 @@ forstering
 fugacious
 fundations
 harbours
-Hematoxylin
+hematoxylin
 histochemical
 homology
 HUBMAP
-iIn
-imortalized
 importante
 inductional
 inductionally
@@ -73,10 +70,10 @@ lubianat
 lymphnode
 maintenanceo
 metaphase
+microanatomy
 misunderstadings
 monocytes
 multicellular
-multicelular
 multispecies
 namings
 neutrophil
@@ -98,7 +95,6 @@ São
 sensu
 speficication
 speficicaton
-stainings
 Stricly
 stricto
 strictu
@@ -109,9 +105,9 @@ subtypes
 superclass
 taxonomically
 taxons
-techniniques
-technotype
+Technotype
 technotypes
+througout
 Tiago
 transcriptomically
 URI
