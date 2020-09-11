@@ -3,6 +3,8 @@ Aevermann
 axillary
 Cajal
 Carneiro
+centric
+CFTR
 clades
 classifiy
 combinatorial
@@ -11,8 +13,10 @@ cytometry
 dataset
 datasets
 defintions
+defitions
 dendritic
 describimg
+Diehl
 disjunct
 dissectable
 electrophysiologically
@@ -35,7 +39,7 @@ infratypes
 ionocyte
 Junqueira
 Kuhnian
-Leonelly
+Leonelli
 Lubiana
 lubianat
 metaphase
@@ -43,7 +47,7 @@ microanatomy
 monocytes
 monophyletic
 multicellular
-Multispecies
+multispecies
 namings
 nes
 neutrophil
@@ -54,9 +58,9 @@ ontologies
 operationalize
 Paulo
 PhenoGenetic
-PhyloCode’s
 rigourousness
 São
+Sartivijai
 sensu
 speficicaton
 stricto
@@ -73,6 +77,8 @@ technotypes
 througout
 Tiago
 transcriptomically
+unprecise
 URI
 Villani
 Yarkoni
+Yongqun
