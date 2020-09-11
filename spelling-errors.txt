@@ -1,7 +1,9 @@
+aceptable
 adress
 Aevermann
 axillary
 Cajal
+cardiocyte
 Carneiro
 centric
 CFTR
@@ -35,7 +37,7 @@ HUBMAP
 inductional
 inductionally
 infratype
-infratypes
+Infratypes
 ionocyte
 Junqueira
 Kuhnian
@@ -47,7 +49,7 @@ microanatomy
 monocytes
 monophyletic
 multicellular
-multispecies
+Multispecies
 namings
 nes
 neutrophil
