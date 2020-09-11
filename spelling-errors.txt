@@ -2,7 +2,9 @@ aceptable
 adress
 Aevermann
 axillary
+basophils
 Cajal
+caracterize
 cardiocyte
 Carneiro
 centric
@@ -25,13 +27,17 @@ electrophysiologically
 electrophysiologists
 entailments
 eosin
+erithrocytes
 eukaryotic
+explictly
 fibroblast
 fibroblasts
 fo
 fugacious
+harbour
 hematoxylin
 histochemical
+histological
 homology
 HUBMAP
 inductional
@@ -58,6 +64,7 @@ omics
 ontologically
 ontologies
 operationalize
+oxyphilic
 Paulo
 PhenoGenetic
 rigourousness
@@ -65,7 +72,7 @@ São
 Sartivijai
 sensu
 speficicaton
-stricto
+Stricto
 subclasses
 subpopulation
 subtype
