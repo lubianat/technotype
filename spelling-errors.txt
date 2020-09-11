@@ -12,6 +12,7 @@ dataset
 datasets
 defintions
 dendritic
+describimg
 disjunct
 dissectable
 electrophysiologically
