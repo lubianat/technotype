@@ -10,7 +10,6 @@ Carneiro
 centric
 CFTR
 clades
-classifiy
 combinatorial
 CoRC
 cytometry
@@ -19,7 +18,6 @@ datasets
 defintions
 defitions
 dendritic
-describimg
 Diehl
 disjunct
 dissectable
@@ -29,6 +27,7 @@ entailments
 eosin
 erithrocytes
 eukaryotic
+evolutionarily
 explictly
 fibroblast
 fibroblasts
@@ -43,7 +42,7 @@ HUBMAP
 inductional
 inductionally
 infratype
-Infratypes
+infratypes
 ionocyte
 Junqueira
 Kuhnian
@@ -55,7 +54,7 @@ microanatomy
 monocytes
 monophyletic
 multicellular
-Multispecies
+multispecies
 namings
 nes
 neutrophil
@@ -67,11 +66,10 @@ operationalize
 oxyphilic
 Paulo
 PhenoGenetic
-rigourousness
 São
 Sartivijai
 sensu
-speficicaton
+spefication
 Stricto
 subclasses
 subpopulation

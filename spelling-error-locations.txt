@@ -19,13 +19,12 @@ content/02.introduction.md:8:HUBMAP
 content/02.introduction.md:8:omics
 content/02.introduction.md:8:subtypes
 content/02.introduction.md:13:CoRC
+content/02.introduction.md:13:evolutionarily
 content/02.introduction.md:13:homology
 content/02.introduction.md:13:multicellular
 content/02.introduction.md:15:througout
-content/02.introduction.md:17:describimg
 content/02.introduction.md:19:adress
 content/03.rules.md:5:Aevermann
-content/03.rules.md:5:classifiy
 content/03.rules.md:7:electrophysiologists
 content/03.rules.md:7:homology
 content/03.rules.md:7:Multispecies
@@ -36,8 +35,7 @@ content/03.rules.md:22:cardiocyte
 content/03.rules.md:22:defintions
 content/03.rules.md:25:clades
 content/03.rules.md:25:monophyletic
-content/03.rules.md:25:rigourousness
-content/03.rules.md:25:speficicaton
+content/03.rules.md:25:spefication
 content/03.rules.md:25:taxons
 content/03.rules.md:25:taxons
 content/03.rules.md:27:inductional
