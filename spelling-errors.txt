@@ -1,4 +1,3 @@
-aceptable
 adress
 Aevermann
 axillary
@@ -11,12 +10,10 @@ centric
 CFTR
 clades
 combinatorial
-conecerns
 CoRC
 cytometry
 dataset
 datasets
-defitions
 dendritic
 Diehl
 disjunct
@@ -27,7 +24,6 @@ electrophysiologists
 endodermal
 entailments
 eosin
-epthelial
 erithrocytes
 eukaryotic
 evolutionarily
@@ -45,7 +41,7 @@ HUBMAP
 inductional
 inductionally
 infratype
-infratypes
+Infratypes
 ionocyte
 Junqueira
 Kuhnian
@@ -58,9 +54,8 @@ microanatomy
 monocytes
 monophyletic
 multicellular
-Multispecies
+multispecies
 namings
-nes
 neutrophil
 neutrophils
 omics
@@ -72,13 +67,10 @@ Paulo
 PhenoGenetic
 ploidy
 polyploid
-reqirement
 São
 Sartivijai
 sensu
-spefication
 stricto
-strucutured
 subclasses
 subpopulation
 subtype
@@ -92,7 +84,6 @@ technotypes
 througout
 Tiago
 transcriptomically
-unprecise
 URI
 Villani
 Yarkoni
