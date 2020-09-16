@@ -1,6 +1,7 @@
 adress
 Aevermann
 axillary
+AXL
 basophils
 Cajal
 caracterize
@@ -14,7 +15,8 @@ CoRC
 cytometry
 dataset
 datasets
-dendritic
+definiting
+Dendritic
 Diehl
 disjunct
 dissectable
@@ -67,12 +69,17 @@ Paulo
 PhenoGenetic
 ploidy
 polyploid
+pseudocode
+RDF
 São
 Sartivijai
 sensu
+SIGLEC
 stricto
+strictu
 subclasses
 subpopulation
+subpopulations
 subtype
 subtypes
 superclass
@@ -85,6 +92,6 @@ througout
 Tiago
 transcriptomically
 URI
-Villani
+villani
 Yarkoni
 Yongqun
