@@ -18,7 +18,7 @@ cytometry
 dataset
 datasets
 definiting
-dendritic
+Dendritic
 Diehl
 disjunct
 dissectable
@@ -46,7 +46,7 @@ HUBMAP
 inductional
 inductionally
 infratype
-infratypes
+Infratypes
 ionocyte
 Junqueira
 Kuhnian
@@ -80,7 +80,7 @@ São
 Sartivijai
 sensu
 SIGLEC
-Stricto
+stricto
 strictu
 subclasses
 subpopulation
@@ -97,6 +97,6 @@ througout
 Tiago
 transcriptomically
 URI
-villani
+Villani
 Yarkoni
 Yongqun
