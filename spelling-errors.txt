@@ -1,8 +1,10 @@
 adress
 Aevermann
+ameboid
 axillary
 AXL
 basophils
+biocurators
 Cajal
 caracterize
 cardiocyte
@@ -16,7 +18,7 @@ cytometry
 dataset
 datasets
 definiting
-Dendritic
+dendritic
 Diehl
 disjunct
 dissectable
@@ -35,6 +37,7 @@ fibroblasts
 fo
 fugacious
 harbour
+hematopoietic
 hematoxylin
 histochemical
 histological
@@ -43,7 +46,7 @@ HUBMAP
 inductional
 inductionally
 infratype
-Infratypes
+infratypes
 ionocyte
 Junqueira
 Kuhnian
@@ -53,10 +56,12 @@ lubianat
 mesenchyme
 metaphase
 microanatomy
+modelled
 monocytes
 monophyletic
 multicellular
-Multispecies
+multispecies
+myeloid
 namings
 neutrophil
 neutrophils
@@ -75,7 +80,7 @@ São
 Sartivijai
 sensu
 SIGLEC
-stricto
+Stricto
 strictu
 subclasses
 subpopulation
