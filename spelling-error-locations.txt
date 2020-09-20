@@ -145,3 +145,17 @@ content/07.final.md:3:namings
 content/07.final.md:3:technotype
 content/07.final.md:3:technotypes
 content/07.final.md:5:entailments
+content/89.supnotes.md:7:dendritic
+content/89.supnotes.md:9:Judgement
+content/89.supnotes.md:11:namings
+content/89.supnotes.md:17:ontologies
+content/89.supnotes.md:17:subclasses
+content/89.supnotes.md:17:subclasses
+content/89.supnotes.md:17:superclass
+content/89.supnotes.md:24:taxons
+content/89.supnotes.md:28:endeavour
+content/89.supnotes.md:32:imigration
+content/89.supnotes.md:32:taxons
+content/89.supnotes.md:36:technotype
+content/89.supnotes.md:38:rigour
+content/89.supnotes.md:40:sammples
