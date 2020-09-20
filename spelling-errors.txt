@@ -17,8 +17,7 @@ CoRC
 cytometry
 dataset
 datasets
-definiting
-dendritic
+Dendritic
 Diehl
 disjunct
 dissectable
@@ -63,7 +62,7 @@ modelled
 monocytes
 monophyletic
 multicellular
-multispecies
+Multispecies
 myeloid
 namings
 neutrophil
@@ -72,6 +71,7 @@ omics
 ontologically
 ontologies
 operationalize
+Osumi
 oxyphilic
 Paulo
 PhenoGenetic
@@ -85,9 +85,10 @@ São
 Sartivijai
 sensu
 SIGLEC
-stricto
+Stricto
 strictu
 subclasses
+subclassing
 subpopulation
 subpopulations
 subtype
@@ -96,12 +97,13 @@ superclass
 superclasses
 taxonomically
 taxons
-Technotype
+technotype
 technotypes
 througout
 Tiago
 transcriptomically
+transcriptomics
 URI
-Villani
+villani
 Yarkoni
 Yongqun
