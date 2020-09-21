@@ -57,7 +57,7 @@ modelled
 monocytes
 monophyletic
 multicellular
-multispecies
+Multispecies
 myeloid
 namings
 neutrophil
@@ -74,11 +74,10 @@ pseudocode
 publically
 RDF
 rigour
-sammples
 São
 sensu
 SIGLEC
-stricto
+Stricto
 strictu
 subclasses
 subclassing
@@ -90,7 +89,7 @@ superclass
 superclasses
 taxonomix
 taxons
-technotype
+Technotype
 technotypes
 Tiago
 transcriptomically
