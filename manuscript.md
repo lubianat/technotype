@@ -3,8 +3,8 @@ author-meta:
 - Tiago Lubiana
 bibliography:
 - content/manual-references.json
-date-meta: '2020-09-21'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"citation_title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"og:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"twitter:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"dc.date\" content=\"2020-09-21\" />\n<meta name=\"citation_publication_date\" content=\"2020-09-21\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Computational Systems Biology Laboratory, University of S\xE3o Paulo\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/technotype/v/74056d4b597218a5263302110086a2e3154c230c/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/technotype/v/74056d4b597218a5263302110086a2e3154c230c/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/technotype/v/74056d4b597218a5263302110086a2e3154c230c/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+date-meta: '2020-09-22'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"citation_title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"og:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"twitter:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"dc.date\" content=\"2020-09-22\" />\n<meta name=\"citation_publication_date\" content=\"2020-09-22\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Computational Systems Biology Laboratory, University of S\xE3o Paulo\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/technotype/v/190d4497b820818a02b7a894a26e2b3ba14aec13/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/technotype/v/190d4497b820818a02b7a894a26e2b3ba14aec13/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/technotype/v/190d4497b820818a02b7a894a26e2b3ba14aec13/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - cell type
 - nomenclature
@@ -24,10 +24,10 @@ title: Towards a pragmatic definition of cell type
 
 <small><em>
 This manuscript
-([permalink](https://lubianat.github.io/technotype/v/74056d4b597218a5263302110086a2e3154c230c/))
+([permalink](https://lubianat.github.io/technotype/v/190d4497b820818a02b7a894a26e2b3ba14aec13/))
 was automatically generated
-from [lubianat/technotype@74056d4](https://github.com/lubianat/technotype/tree/74056d4b597218a5263302110086a2e3154c230c)
-on September 21, 2020.
+from [lubianat/technotype@190d449](https://github.com/lubianat/technotype/tree/190d4497b820818a02b7a894a26e2b3ba14aec13)
+on September 22, 2020.
 </em></small>
 
 ## Authors
@@ -52,7 +52,7 @@ on September 21, 2020.
 
 # Introduction
 
-One of the first classes in any undergraduate major in life sciences is the histology class. The students are tasked with identifying cel types across various tissues, looking for color and shape patterns in hematoxylin-eosin stains. The text-books, such as the one by Junqueira & Carneiro[@isbn:9788527723114], work as manuals (in the Kuhnian sense)[@isbn:9780226458113] that perpetuate the paradigms of what we know about a couple hundred cell types.
+One of the basic classes in any undergraduate major in life sciences is the histology class. The students are tasked with identifying cel types across various tissues, looking for color and shape patterns in hematoxylin-eosin stains. The text-books, such as the one by Junqueira & Carneiro[@isbn:9788527723114], work as manuals (in the Kuhnian sense)[@isbn:9780226458113] that perpetuate the paradigms of what we know about a couple hundred cell types.
 
 Our concept of "cell type", thus, is still based on century-old histochemical techniques -  such as the Golgi-stains of neurons immortalized by Ramon y Cajal[@doi:10.1016/j.cub.2004.06.035]. The histological influence is noticeable even in names given to cell types: "erithrocytes", "eosinophil", "basophils", "oxyphilic cell of the thyroid". The concepts we use are drawn from studies of microanatomy. The connection with anatomy leads to thinking about cell types as anatomical entities as if they were clearly dissectable and fixed in an organism. This may be the reason why attempts to quantify cell types use the scale of "hundreds" of human cell types [@https://bionumbers.hms.harvard.edu/bionumber.aspx?id=103626] [@https://askabiologist.asu.edu/questions/human-cell-types] [@doi:10.1016/j.cels.2017.03.006.].
 
@@ -76,9 +76,7 @@ In one recent attempt to define cell types for single cell RNA-Seq, Aevermann et
 
 The use of markers, however, leaves us with a conceptual problem: definitions of cell type used by electrophysiologists, or even in the manuals of histology classes, are not based on markers. Rigorously, this would leave aside a whole part of what we consider biomedical knowledge. Moreover, gene markers are not defined for cell types that span multiple species, a problem already discussed on the Cell Ontology report of 2011 [@doi:10.1186/1471-2105-12-6]. Multispecies markers would require us to explicitly consider homology, adding an extra layer of confusion. 
 
-I follow  the [RFC guidelines for requirement levels ](https://www.ietf.org/rfc/rfc2119.html) for the terms _must_ and _should_. _Bust_ represents an "an absolute requirement." _Should_ represents that "there may exist valid reasons in particular circumstances to ignore a particular item".
-
-My pragmatic definition of cell type (for eukaryotic, multicellular organisms) consists of 3 + 1 simple rules. A cell type is any class of cells that _must_ be:
+My pragmatic definition of cell type (for eukaryotic, multicellular organisms) consists of 3 + 1 simple rules. A cell type is a class of cells that _must_ be:
 
 - Explictly defined
 - Theoretically useful 
@@ -89,8 +87,9 @@ And that _should_ be:
 
 - Logically related to other cell types
 
+For that specification, _must_ represents an "an absolute requirement" and _should_ represents that "there may exist valid reasons in particular circumstances to ignore a particular item" (as per RFC 2119 [@url:https://www.ietf.org/rfc/rfc2119.html])_.
 
-For rule 1, by "explicitly defined", I mean that the cell type needs to be followed by a clear definition, that would allow rational judgements of whether a singular cell belongs or not to the type.  An example is a cell type defined by "expression of the proteins CD3 and CD4, but lacking CD8." Even though there is still some ambiguity in that definition (see [@doi:10.1186/s12859-019-2725-5] for a longer discussion), it already states clear, reasonable criteria. Any combination of markers (or lack thereof) can define a different _cell type_. This extends to _any_  definition, and small differences are enough for constituting new cell types. The degree of rigorousness cannot be decided a priori, as we still do not have a rigorous framework for representing biological knowledge, but we _should_ strive to make definitions as rigorous as possibles. Other examples of what could be explicit definitions: 
+For rule 1, by "explicitly defined", I mean that the cell type needs to be followed by a clear definition, that would allow rational judgements of whether a singular cell belongs or not to the type.  The definition _should_ be complete, providing the necessary and sufficient criteria for classification. An example is a cell type defined by "expression of the proteins CD3 and CD4, but lacking CD8." Even though there is still some ambiguity in that definition (see [@doi:10.1186/s12859-019-2725-5] for a longer discussion), it already states clear, reasonable criteria. Any combination of markers (or lack thereof) can define a different _cell type_. This extends to _any_  definition, and small differences are enough for constituting new cell types. The degree of rigorousness cannot be decided a priori, as we still do not have a rigorous framework for representing biological knowledge, but we _should_ strive to make definitions as rigorous as possibles. Other examples of what could be explicit definitions: 
 
 - A "big cell", defined a class of cells with a length of more than 50 micrometers on any axis.
 - A "human cortical neuron" is any cell in a human cortex that is able of producing an action potential.
@@ -159,7 +158,7 @@ An example from the article is the discovery of the  "AS Dendritic cell" (and tw
 "Dendritic cells" is one of the cell types most thoroughly modelled by Cell Ontology. [@doi:10.1186/1471-2105-10-70] [@doi:10.1016/j.jbi.2010.01.006]. The current natural language definition of dendritic cell ([CL_0000451](http://purl.obolibrary.org/obo/CL_0000451)) states that a dendritic cell is "A cell of hematopoietic origin, typically resident in particular tissues, specialized in the uptake, processing, and transport of antigens to lymph nodes for the purpose of stimulating an immune response via T cell activation. These cells are lineage negative (CD3-negative, CD19-negative, CD34-negative, and CD56-negative)." The structured definitions are derived from the leukocyte ([CL_0000738](http://purl.obolibrary.org/obo/CL_0000738)) definition, which defines such cells as "achromatic cell of the myeloid or lymphoid lineages capable of ameboid movement." These definitions are not reconcilable to the "dendritic cells" studied by Villani et al's . We have no way of knowing if the cells in their work are "typically resident in particular tissues", "achromatic" or "capable of ameboid movement". That might sound pedantic, but the logical requirements of computational systems leads to both [biocurators](https://www.biocuration.org/community/biocuration-generic-job-description/) and  [computers](https://eloquentjavascript.net/00_intro.html) being seen as pedantic. This high level of precision is necessary to accurately depict not only the complexities of cell types, but the complexities of research settings.
 
 
-![ Conceptualization of a set of the cell types in Villani et al, 2017 [@doi:10.1126/science.aah4573]. The depicted cell types were manually curated from the article, where they are either implicitly or explicitly mentioned. The set of cell types is not comprehensive, and represent only a small fraction of the concepts handled in the article.Identifiers for cell types are written in pseudocode based on the Turtle serialization for RDF knowledge graphs (https://www.w3.org/TR/turtle/) and represent valid URIs (described in the database https://celltypes.wiki.opencura.com/wiki/Main_Page). URI: Universal Resource Identifier; RDF: Resource Description Framework.](images/villani_asdcs.png  ){#fig:villani}
+![ Conceptualization of a set of the cell types in Villani et al, 2017 [@doi:10.1126/science.aah4573]. The depicted cell types were manually curated from the article, where they are either implicitly or explicitly mentioned. The set of cell types is not comprehensive, and represent only a small fraction of the concepts handled by the authors. Identifiers for cell types are written in pseudocode based on the Turtle serialization for RDF knowledge graphs (https://www.w3.org/TR/turtle/) and represent valid URIs (described in the database https://celltypes.wiki.opencura.com/wiki/Main_Page). URI: Universal Resource Identifier; RDF: Resource Description Framework.](images/villani_asdcs.png  ){#fig:villani}
 
 Even if we are not yet able to formally represent all the aspects that go into a cell type definition, we can use an explicit "natural language definition" property to define cell types. As David Osumi-Sutherland puts in a 2017 article about cell type classification, there is a "_mismatch between quantified logic, which records assertions about all members of a class, and the messy, noisy reality of biology and the data we collect about it._." [@doi:10.1186/s12859-017-1980-6]. We do not need complex assertions to create a logically valid ontology of cell types. Taking as example in  figure @fig:villani, all cell types treated as "dendritic cells" in the literature are valid subclasses of  the dendritic cell archetype (ct:Q20). Such a subclassing system might lack the power to computationally check the validity of definitions. However, by the principle of minimal commitment [@doi:10.1.1.89.5775], it could already be be a suitable scaffold for representing experimental data (e.g from single-cell transcriptomics) and allow logically robust data integration. 
 
@@ -222,6 +221,37 @@ It is technically possible to have a technotype so precise as to have a scope wi
 While evolutionary definitions take this dimension into account, they are fit to theoretical research, but still lack the rigour for explaining real world experiments.
 
 All research that uses human samples are subject to strong influence of time. I started this as a note, but it is so important that I'll have to add to the main text. 
+
+
+## Clusters are not cells 
+
+In the era of large-scale omics, we are starting to see declarations of cell types that are not based on pre-selected criteria, but derived from unsupervised clustering followed by labelling.
+
+This is a powerful exploratory approach, which, as mentioned in the main text, has led to discoveries of ionocytes and new classes of dendritic cells, for example. 
+
+Many algorithms and "expert-based" annotation protocols focus on labeling _clusters_ instead of labeling _cells_. 
+
+Cells in a cluster are arbitrarily similar (as determined by the clustering algorithm) and so they will, by definition, differ from other cells in the sample.
+
+For single-cell RNA-seq, one usually checks which genes are differentially expressed when comparing the cells in a cluster with cells in other clusters. These genes are called "markers" and used for labeling a cell cluster. 
+
+What does it mean to label a cell cluster, though? Does it mean that _all_ cells there conform to the cell type? Does it mean that _most_ cells there conform to the cell type? Does it mean that cells from other clusters in the dataset _definitely do not_ conform to the cell type? 
+
+So far, I haven't seem a clear, explicit, coherent definition for a cluster label. Not even once. 
+
+Marker-based definitions are assumed for the group as a whole, but in current pipelines, nothing blocks one cell in a cluster to lack the expression of a "name-giver" marker. 
+
+The classification scheme proposed here works to classify _cells_, but is not sufficient for labeling unsupervisedly-defined _cell clusters_. 
+
+What is possible, though, is to use clustering for data exploration. From then on, strict patterns can be decided (ex: a cell that expresses A and B, but not C) and then apply this pattern to the whole dataset. For clusters with consistent markers, this approach should be roughly equivalent to the previously described. 
+
+Using such "regular expressions" might lead to a cell being assigned to multiple clusters. Even if we assume that the sample is free of doublets, that cannot be a problem. Cells may have multiple functions. As argued in the main text, each cell can be labeled by multiple standards.
+
+We may avoid multiple labeling if we really need in practice, though, and make preferential claims (if a  cell matches defintiions X and Y, it is assigned only to X, for example). 
+
+By having explicit "regular expression" patterns for cell definitions in single-cell datasets, the "cell-type assesment" problem becomes trivial: a cell in  a new dataset is of the _exact_ same type if (and only if) it matches the _exact_ definition.
+
+When that is not the case, current algorithms for reconciling single cell datasets can still be successfully employed. But instead of propagating a label, it would propagate a parent class, looking for cells of a similar, sister class. 
 
 
 

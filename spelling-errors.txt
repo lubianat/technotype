@@ -1,5 +1,6 @@
 Aevermann
 ameboid
+assesment
 axillary
 AXL
 basophils
@@ -14,8 +15,11 @@ combinatorial
 Converserly
 CoRC
 cytometry
+dataset
 datasets
+defintiions
 dendritic
+differentially
 disjunct
 dissectable
 electrophysiologically
@@ -26,7 +30,7 @@ eosin
 erithrocytes
 eukaryotic
 evolutionarily
-explictly
+Explictly
 fibroblast
 fibroblasts
 findable
@@ -43,10 +47,12 @@ inductionally
 infratype
 infratypes
 ionocyte
+ionocytes
 Judgement
 judgements
 Junqueira
 Kuhnian
+labelling
 lalbeling
 Leonelli
 Lubiana
@@ -62,6 +68,7 @@ myeloid
 namings
 neutrophil
 neutrophils
+omics
 ontologically
 ontologies
 Osumi
@@ -69,6 +76,7 @@ oxyphilic
 Paulo
 PhenoGenetic
 ploidy
+pre
 priori
 pseudocode
 publically
@@ -77,7 +85,7 @@ rigour
 São
 sensu
 SIGLEC
-Stricto
+stricto
 strictu
 subclasses
 subclassing
@@ -94,6 +102,7 @@ technotypes
 Tiago
 transcriptomically
 transcriptomics
+unsupervisedly
 URI
 Villani
 Yarkoni
