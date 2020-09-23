@@ -5,7 +5,7 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Tiago Lubiana" />
-  <meta name="dcterms.date" content="2020-09-22" />
+  <meta name="dcterms.date" content="2020-09-23" />
   <meta name="keywords" content="cell type, nomenclature, classification" />
   <title>Towards a pragmatic definition of cell type</title>
   <style>
@@ -28,8 +28,8 @@
   <meta name="citation_title" content="Towards a pragmatic definition of cell type" />
   <meta property="og:title" content="Towards a pragmatic definition of cell type" />
   <meta property="twitter:title" content="Towards a pragmatic definition of cell type" />
-  <meta name="dc.date" content="2020-09-22" />
-  <meta name="citation_publication_date" content="2020-09-22" />
+  <meta name="dc.date" content="2020-09-23" />
+  <meta name="citation_publication_date" content="2020-09-23" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@
   <meta name="citation_fulltext_html_url" content="https://lubianat.github.io/technotype/" />
   <meta name="citation_pdf_url" content="https://lubianat.github.io/technotype/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://lubianat.github.io/technotype/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://lubianat.github.io/technotype/v/190d4497b820818a02b7a894a26e2b3ba14aec13/" />
-  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/technotype/v/190d4497b820818a02b7a894a26e2b3ba14aec13/" />
-  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/technotype/v/190d4497b820818a02b7a894a26e2b3ba14aec13/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://lubianat.github.io/technotype/v/4a4eff99aacb86eb3c4d548e58aecf72d824696a/" />
+  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/technotype/v/4a4eff99aacb86eb3c4d548e58aecf72d824696a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/technotype/v/4a4eff99aacb86eb3c4d548e58aecf72d824696a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,10 +61,10 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://lubianat.github.io/technotype/v/190d4497b820818a02b7a894a26e2b3ba14aec13/">permalink</a>)
+(<a href="https://lubianat.github.io/technotype/v/4a4eff99aacb86eb3c4d548e58aecf72d824696a/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/lubianat/technotype/tree/190d4497b820818a02b7a894a26e2b3ba14aec13">lubianat/technotype@190d449</a>
-on September 22, 2020.
+from <a href="https://github.com/lubianat/technotype/tree/4a4eff99aacb86eb3c4d548e58aecf72d824696a">lubianat/technotype@4a4eff9</a>
+on September 23, 2020.
 </em></small></p>
 <h2 id="authors">Authors</h2>
 <ul>
@@ -191,6 +191,10 @@ Computational Systems Biology Laboratory, University of São Paulo
 <p>We may avoid multiple labeling if we really need in practice, though, and make preferential claims (if a cell matches defintiions X and Y, it is assigned only to X, for example).</p>
 <p>By having explicit “regular expression” patterns for cell definitions in single-cell datasets, the “cell-type assesment” problem becomes trivial: a cell in a new dataset is of the <em>exact</em> same type if (and only if) it matches the <em>exact</em> definition.</p>
 <p>When that is not the case, current algorithms for reconciling single cell datasets can still be successfully employed. But instead of propagating a label, it would propagate a parent class, looking for cells of a similar, sister class.</p>
+<h1 id="additional-notes">Additional notes</h1>
+<p>The Immune Epitope Database and Analysis Resource (IEDB) announced it in 2006 [doi:10.1371/journal.pcbi.0020125]:</p>
+<p>“the goal of the IEDB is to present as much information as possible without subjective interpretation, we can never presume any information, but rather we must try to capture the data exactly as presented in the reference, while maintaining the conclusions of the reference in a uniform manner. For example, if all experiments are performed with a whole cell population, but the authors attribute the response to a particular cell type without any evidence, we must capture the effector cells as the entire population.”</p>
+<p>That is the kind of challenge that the “technotype” solves in theory, as it gets the objective population sampled in any article.</p>
 <h2 class="page_break_before" id="references">References</h2>
 <!-- Explicitly insert bibliography here -->
 <div id="refs" class="references hanging-indent" role="doc-bibliography">
