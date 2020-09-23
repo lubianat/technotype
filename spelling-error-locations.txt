@@ -168,3 +168,8 @@ content/89.supnotes.md:69:assesment
 content/89.supnotes.md:69:dataset
 content/89.supnotes.md:69:datasets
 content/89.supnotes.md:71:datasets
+content/89.supnotes.md:76:Epitope
+content/89.supnotes.md:76:IEDB
+content/89.supnotes.md:78:effector
+content/89.supnotes.md:78:IEDB
+content/89.supnotes.md:80:technotype
