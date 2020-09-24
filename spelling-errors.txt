@@ -11,6 +11,7 @@ cel
 centric
 CFTR
 clades
+coexistential
 combinatorial
 Converserly
 CoRC
@@ -70,7 +71,7 @@ modelled
 monocytes
 monophyletic
 multicellular
-Multispecies
+multispecies
 myeloid
 namings
 neutrophil
@@ -84,6 +85,7 @@ Paulo
 Phenetic
 PhenoGenetic
 ploidy
+pratical
 pre
 priori
 pseudocode
@@ -95,7 +97,7 @@ sensu
 SIGLEC
 Slobodchikoff
 Sokal
-stricto
+Stricto
 strictu
 subclasses
 subclassing
@@ -107,12 +109,13 @@ superclass
 superclasses
 taxonomix
 taxons
-Technotype
+technotype
 technotypes
 Tiago
 transcriptomically
 transcriptomics
 unsupervisedly
 URI
-Villani
+villani
+Wikibase
 Yarkoni
