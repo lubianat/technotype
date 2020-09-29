@@ -5,6 +5,7 @@ axillary
 AXL
 basophils
 biocurators
+botanics
 Cajal
 Carneiro
 cel
@@ -42,6 +43,7 @@ fibroblast
 fibroblasts
 findable
 fugacious
+Helder
 hematopoietic
 hematoxylin
 histochemical
@@ -50,10 +52,11 @@ homology
 HUBMAP
 IEDB
 imigration
+Imoto
 inductional
 inductionally
 infratype
-Infratypes
+infratypes
 ionocyte
 ionocytes
 Judgement
@@ -61,7 +64,6 @@ judgements
 Junqueira
 Kuhnian
 labelling
-lalbeling
 Leonelli
 Lubiana
 lubianat
@@ -73,6 +75,7 @@ monophyletic
 multicellular
 multispecies
 myeloid
+Nakaya
 namings
 neutrophil
 neutrophils
@@ -97,7 +100,7 @@ sensu
 SIGLEC
 Slobodchikoff
 Sokal
-Stricto
+stricto
 strictu
 subclasses
 subclassing
@@ -107,15 +110,16 @@ subtype
 subtypes
 superclass
 superclasses
+Takashi
 taxonomix
 taxons
-technotype
+Technotype
 technotypes
 Tiago
 transcriptomically
 transcriptomics
 unsupervisedly
 URI
-villani
+Villani
 Wikibase
 Yarkoni
