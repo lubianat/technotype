@@ -94,7 +94,7 @@ rigour
 São
 sensu
 SIGLEC
-Stricto
+stricto
 strictu
 subclasses
 subclassing
@@ -115,6 +115,6 @@ transcriptomically
 transcriptomics
 unsupervisedly
 URI
-Villani
+villani
 Wikibase
 Yarkoni
