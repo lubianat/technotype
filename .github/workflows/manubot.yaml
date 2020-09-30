@@ -20,6 +20,7 @@ jobs:
           TRIGGERING_SHA_7=${TRIGGERING_SHA::7}
           echo "::set-env name=TRIGGERING_SHA_7::$TRIGGERING_SHA_7"
           echo "TRIGGERING_SHA: $TRIGGERING_SHA"
+          BUILD_DOCX=true
       - name: Checkout Repository
         uses: actions/checkout@v2
         with:
