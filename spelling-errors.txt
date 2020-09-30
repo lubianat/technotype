@@ -1,6 +1,5 @@
 Aevermann
 ameboid
-assesment
 axillary
 AXL
 basophils
@@ -16,17 +15,14 @@ coexistential
 combinatorial
 Converserly
 CoRC
-Cronquist
 crosslinkable
 cytometry
 dataset
 datasets
-defintiions
 dendritic
 differentially
 disjunct
 dissectable
-DuRietz
 effector
 electrophysiologically
 electrophysiologists
@@ -38,7 +34,7 @@ Epitope
 erithrocytes
 eukaryotic
 evolutionarily
-explictly
+Explictly
 fibroblast
 fibroblasts
 findable
@@ -98,9 +94,7 @@ rigour
 São
 sensu
 SIGLEC
-Slobodchikoff
-Sokal
-stricto
+Stricto
 strictu
 subclasses
 subclassing
@@ -113,8 +107,9 @@ superclasses
 Takashi
 taxonomix
 taxons
-Technotype
+technotype
 technotypes
+Thn
 Tiago
 transcriptomically
 transcriptomics
