@@ -34,7 +34,7 @@ Epitope
 erithrocytes
 eukaryotic
 evolutionarily
-Explictly
+explictly
 fibroblast
 fibroblasts
 findable
@@ -52,7 +52,7 @@ Imoto
 inductional
 inductionally
 infratype
-infratypes
+Infratypes
 ionocyte
 ionocytes
 Judgement
@@ -76,6 +76,7 @@ namings
 neutrophil
 neutrophils
 omics
+OnClass
 ontologically
 ontologies
 Osumi
@@ -107,7 +108,7 @@ superclasses
 Takashi
 taxonomix
 taxons
-technotype
+Technotype
 technotypes
 Thn
 Tiago
