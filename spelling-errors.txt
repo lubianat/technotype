@@ -52,7 +52,7 @@ Imoto
 inductional
 inductionally
 infratype
-Infratypes
+infratypes
 ionocyte
 ionocytes
 Judgement
@@ -95,7 +95,7 @@ rigour
 São
 sensu
 SIGLEC
-stricto
+Stricto
 strictu
 subclasses
 subclassing
