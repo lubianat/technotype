@@ -34,7 +34,7 @@ Epitope
 erithrocytes
 eukaryotic
 evolutionarily
-explictly
+Explictly
 fibroblast
 fibroblasts
 findable
@@ -95,7 +95,7 @@ rigour
 São
 sensu
 SIGLEC
-Stricto
+stricto
 strictu
 subclasses
 subclassing
@@ -116,6 +116,6 @@ transcriptomically
 transcriptomics
 unsupervisedly
 URI
-villani
+Villani
 Wikibase
 Yarkoni
