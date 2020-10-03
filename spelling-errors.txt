@@ -19,7 +19,7 @@ crosslinkable
 cytometry
 dataset
 datasets
-dendritic
+Dendritic
 differentially
 disjunct
 dissectable
@@ -39,6 +39,8 @@ fibroblast
 fibroblasts
 findable
 fugacious
+GEPs
+harbour
 Helder
 hematopoietic
 hematoxylin
@@ -95,7 +97,7 @@ rigour
 São
 sensu
 SIGLEC
-stricto
+Stricto
 strictu
 subclasses
 subclassing
@@ -108,7 +110,7 @@ superclasses
 Takashi
 taxonomix
 taxons
-Technotype
+technotype
 technotypes
 Thn
 Tiago
@@ -116,6 +118,6 @@ transcriptomically
 transcriptomics
 unsupervisedly
 URI
-Villani
+villani
 Wikibase
 Yarkoni
