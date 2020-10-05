@@ -71,12 +71,10 @@ content/05.logical.md:9:explictly
 content/05.logical.md:9:metaphase
 content/05.logical.md:9:metaphase
 content/05.logical.md:11:disjunct
-content/05.logical.md:11:disjunct
 content/05.logical.md:11:fibroblast
 content/05.logical.md:11:fibroblast
 content/05.logical.md:11:fibroblast
 content/05.logical.md:11:fibroblasts
-content/05.logical.md:13:disjunct
 content/05.logical.md:13:ontologically
 content/06.practical.md:4:entailments
 content/06.practical.md:6:Aevermann

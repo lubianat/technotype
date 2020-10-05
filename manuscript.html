@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Tiago Lubiana" />
   <meta name="author" content="Helder Takashi Imoto Nakaya (pending approval)" />
-  <meta name="dcterms.date" content="2020-10-03" />
+  <meta name="dcterms.date" content="2020-10-05" />
   <meta name="keywords" content="cell type, nomenclature, classification" />
   <title>Towards a pragmatic definition of cell type</title>
   <style>
@@ -29,8 +29,8 @@
   <meta name="citation_title" content="Towards a pragmatic definition of cell type" />
   <meta property="og:title" content="Towards a pragmatic definition of cell type" />
   <meta property="twitter:title" content="Towards a pragmatic definition of cell type" />
-  <meta name="dc.date" content="2020-10-03" />
-  <meta name="citation_publication_date" content="2020-10-03" />
+  <meta name="dc.date" content="2020-10-05" />
+  <meta name="citation_publication_date" content="2020-10-05" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -49,9 +49,9 @@
   <meta name="citation_fulltext_html_url" content="https://lubianat.github.io/technotype/" />
   <meta name="citation_pdf_url" content="https://lubianat.github.io/technotype/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://lubianat.github.io/technotype/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://lubianat.github.io/technotype/v/540a841ce70726e5b34e29175b53de8c8eab4f42/" />
-  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/technotype/v/540a841ce70726e5b34e29175b53de8c8eab4f42/" />
-  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/technotype/v/540a841ce70726e5b34e29175b53de8c8eab4f42/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://lubianat.github.io/technotype/v/edd78e6ccd678a767a9fd2a3f2006080a50a84c4/" />
+  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/technotype/v/edd78e6ccd678a767a9fd2a3f2006080a50a84c4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/technotype/v/edd78e6ccd678a767a9fd2a3f2006080a50a84c4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,10 +65,10 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://lubianat.github.io/technotype/v/540a841ce70726e5b34e29175b53de8c8eab4f42/">permalink</a>)
+(<a href="https://lubianat.github.io/technotype/v/edd78e6ccd678a767a9fd2a3f2006080a50a84c4/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/lubianat/technotype/tree/540a841ce70726e5b34e29175b53de8c8eab4f42">lubianat/technotype@540a841</a>
-on October 3, 2020.
+from <a href="https://github.com/lubianat/technotype/tree/edd78e6ccd678a767a9fd2a3f2006080a50a84c4">lubianat/technotype@edd78e6</a>
+on October 5, 2020.
 </em></small></p>
 <h2 id="authors">Authors</h2>
 <ul>
@@ -143,8 +143,8 @@ Computational Systems Biology Laboratory, University of São Paulo
 <p>Another notable, and less trivial, logical consequence is that the definition of a “cell state” is left as a subclass of “cell type”. For the pragmatic purpose adopted here, we avoid dissecting the differences between persistent classes of cells (which we refer to as “traditional cell types”) or transient, fugacious classes of cells (which we refer to as the “traditional cell state”). Even though such a distinction is an important topic for theoretical research, it is not a requirement for representing biomedical experiments.</p>
 <p>The fuzzy border of activity (“traditional cell state”) and identity (“traditional cell types”) gene expression programs (GEPs) is acknowledged by the community. The fact that every cell harbour multiple GEPs is even clearer.<span class="citation" data-cites="3H80HarF">[<a href="#ref-3H80HarF" role="doc-biblioref">30</a>]</span> The rules proposed here aim at harmonizing these ideas, by explicitly allowing (1) cell type definitions to include activity, identity, or hybrid descriptors and (2) cells to have multiple cell types.</p>
 <p>One example of this entailment is that the class “human cells in metaphase of mitosis” can be considered a cell type, as they can be explictly defined and restricted to a taxon. Even though “metaphase” itself is a biological process, we can describe all cells executing this process as a single cell type.</p>
-<p>However, does a dividing fibroblast stop being a fibroblast, even if temporarily? Again, we do not aim to answer this in a philosophical-ontological sense. Pragmatically, if the explicit definition used for fibroblast (e.g., expression of a marker) still holds during duplication, this cell can be assigned to two disjunct classes: “fibroblasts” and “doubling cells”. It is, thus, essential to consider that cells can belong to at least two disjunct classes.</p>
-<p>If cells can be assigned to disjunct classes, it is not possible to annotate cell types using a single taxonomic tree, in which each concept is represented by a single node with one (and only one) direct parent node. This is conflicting with attempts to classify cell-types using single hierarchies in the form of a tree <span class="citation" data-cites="I4hT5zr7">[<a href="#ref-I4hT5zr7" role="doc-biblioref">31</a>]</span> <span class="citation" data-cites="HixFZJ8X">[<a href="#ref-HixFZJ8X" role="doc-biblioref">32</a>]</span> <span class="citation" data-cites="wdzgXUGy">[<a href="#ref-wdzgXUGy" role="doc-biblioref">33</a>]</span>. Cell types need to be represented ontologically (in the computational sense), which can be thought of multiple, intertwining trees, which take into account different ways of classifying cells.</p>
+<p>However, does a dividing fibroblast stop being a fibroblast, even if temporarily? Again, we do not aim to answer this in a philosophical-ontological sense. Pragmatically, if the explicit definition used for fibroblast (e.g., expression of a marker) still holds during duplication, this cell can be assigned to two classes that are not hierarchically related: “fibroblasts” and “doubling cells”. It is, thus, essential to consider that cells can belong to at least two disjunct classes.</p>
+<p>If cells can be assigned to multiple classes that are not hierarchically related, it is not possible to annotate cell types using a single taxonomic tree, in which each concept would be represented by a single node with one (and only one) direct parent node. This is conflicting with attempts to classify cell-types using single hierarchies in the form of a tree <span class="citation" data-cites="I4hT5zr7">[<a href="#ref-I4hT5zr7" role="doc-biblioref">31</a>]</span> <span class="citation" data-cites="HixFZJ8X">[<a href="#ref-HixFZJ8X" role="doc-biblioref">32</a>]</span> <span class="citation" data-cites="wdzgXUGy">[<a href="#ref-wdzgXUGy" role="doc-biblioref">33</a>]</span>. Cell types need to be represented ontologically (in the computational sense), which can be thought of multiple, intertwining trees, which take into account different ways of classifying cells.</p>
 <h1 id="practical-consequences-of-the-definition">Practical consequences of the definition</h1>
 <p>In the previous section, we discussed the logical entailments of accepting the proposed rules as valid. Here, we will extend the pragmatic considerations on using such a system for real-world applications.</p>
 <p>In one recent attempt to define cell types for single cell RNA-Seq, Aevermann et al came up with a set of needs: “The minimum set of necessary and sufficient marker genes selectively expressed by the cell type”, “A parent cell class in the CL”, and “A specimen source description (anatomic structure þ species).” <span class="citation" data-cites="IgMqOHJU">[<a href="#ref-IgMqOHJU" role="doc-biblioref">34</a>]</span> They have great merit in defining clear guidelines for marking a cell type. The requirement of markers is reasonable for the field of single-cell RNA-seq, where marker information is abundant. The Cell Ontology has used markers for defining cell types, an approach specially employed for immune cells <span class="citation" data-cites="gAysgnsS">[<a href="#ref-gAysgnsS" role="doc-biblioref">16</a>]</span> <span class="citation" data-cites="9UTyLFor">[<a href="#ref-9UTyLFor" role="doc-biblioref">22</a>]</span> <span class="citation" data-cites="17uICvtFm">[<a href="#ref-17uICvtFm" role="doc-biblioref">23</a>]</span>.</p>

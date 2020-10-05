@@ -19,7 +19,7 @@ crosslinkable
 cytometry
 dataset
 datasets
-Dendritic
+dendritic
 differentially
 disjunct
 dissectable
@@ -34,7 +34,7 @@ Epitope
 erithrocytes
 eukaryotic
 evolutionarily
-Explictly
+explictly
 fibroblast
 fibroblasts
 findable
@@ -97,7 +97,7 @@ rigour
 São
 sensu
 SIGLEC
-Stricto
+stricto
 strictu
 subclasses
 subclassing
