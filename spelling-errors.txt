@@ -44,6 +44,7 @@ HCA
 Helder
 hematopoietic
 hematoxylin
+Heraclitian
 histochemical
 histological
 homology
@@ -98,7 +99,7 @@ rigour
 São
 sensu
 SIGLEC
-Stricto
+stricto
 strictu
 subclasses
 subclassing

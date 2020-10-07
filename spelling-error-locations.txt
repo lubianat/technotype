@@ -19,6 +19,7 @@ content/02.introduction.md:11:CoRC
 content/02.introduction.md:11:evolutionarily
 content/02.introduction.md:11:homology
 content/02.introduction.md:11:multicellular
+content/02.introduction.md:17:Heraclitian
 content/03.rules.md:5:eukaryotic
 content/03.rules.md:5:multicellular
 content/03.rules.md:7:Explictly
