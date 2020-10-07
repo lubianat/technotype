@@ -1,5 +1,6 @@
 Aevermann
 ameboid
+Aviv
 axillary
 AXL
 basophils
@@ -19,7 +20,7 @@ crosslinkable
 cytometry
 dataset
 datasets
-dendritic
+Dendritic
 differentially
 disjunct
 dissectable
@@ -34,13 +35,12 @@ Epitope
 erithrocytes
 eukaryotic
 evolutionarily
-explictly
+Explictly
 fibroblast
 fibroblasts
 findable
 fugacious
-GEPs
-harbour
+HCA
 Helder
 hematopoietic
 hematoxylin
@@ -93,11 +93,12 @@ priori
 pseudocode
 publically
 RDF
+Regev
 rigour
 São
 sensu
 SIGLEC
-stricto
+Stricto
 strictu
 subclasses
 subclassing
@@ -110,7 +111,7 @@ superclasses
 Takashi
 taxonomix
 taxons
-technotype
+Technotype
 technotypes
 Thn
 Tiago
