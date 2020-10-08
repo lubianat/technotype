@@ -226,3 +226,4 @@ content/89.supnotes.md:99:Phenetic
 content/89.supnotes.md:101:Phenetic
 content/89.supnotes.md:101:Thn
 content/89.supnotes.md:102:crosslinkable
+content/89.supnotes.md:106:lubianat
