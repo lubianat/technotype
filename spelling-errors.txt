@@ -25,7 +25,7 @@ cytometry
 dataset
 datasets
 definion
-dendritic
+Dendritic
 Diehl
 differentially
 Dimitrius
@@ -45,7 +45,7 @@ Epitope
 erithrocytes
 eukaryotic
 evolutionarily
-Explictly
+explictly
 FAPESP
 Fernanda
 Fernandes
@@ -127,7 +127,7 @@ sensu
 Shunfu
 SIGLEC
 Souza
-stricto
+Stricto
 strictu
 subclasses
 subclassing
@@ -140,7 +140,7 @@ superclasses
 Takashi
 taxonomix
 taxons
-technotype
+Technotype
 technotypes
 Thn
 Tiago
