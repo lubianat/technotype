@@ -25,7 +25,7 @@ cytometry
 dataset
 datasets
 definion
-dendritic
+Dendritic
 Diehl
 differentially
 Dimitrius
@@ -45,8 +45,9 @@ Epitope
 erithrocytes
 eukaryotic
 evolutionarily
-explictly
+Explictly
 FAPESP
+favours
 Fernanda
 Fernandes
 fibroblast
@@ -69,7 +70,7 @@ Imoto
 inductional
 inductionally
 infratype
-Infratypes
+infratypes
 ionocyte
 ionocytes
 ISCB
@@ -108,7 +109,7 @@ ontologies
 Osumi
 oxyphilic
 Paulo
-Phenetic
+phenetic
 PhenoGenetic
 ploidy
 Pramio
@@ -127,7 +128,7 @@ sensu
 Shunfu
 SIGLEC
 Souza
-Stricto
+stricto
 strictu
 subclasses
 subclassing
@@ -137,6 +138,7 @@ subtype
 subtypes
 superclass
 superclasses
+systematics
 Takashi
 taxonomix
 taxons
@@ -150,7 +152,7 @@ Trapnell
 unsupervisedly
 URI
 Vieira
-villani
+Villani
 Vitor
 Wikibase
 Yannakopoulos

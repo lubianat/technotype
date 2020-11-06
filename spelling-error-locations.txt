@@ -226,4 +226,8 @@ content/89.supnotes.md:99:Phenetic
 content/89.supnotes.md:101:Phenetic
 content/89.supnotes.md:101:Thn
 content/89.supnotes.md:102:crosslinkable
-content/89.supnotes.md:106:lubianat
+content/89.supnotes.md:104:phenetic
+content/89.supnotes.md:107:phenetic
+content/89.supnotes.md:107:systematics
+content/89.supnotes.md:108:favours
+content/89.supnotes.md:117:lubianat
