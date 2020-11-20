@@ -129,7 +129,7 @@ sensu
 Shunfu
 SIGLEC
 Souza
-Stricto
+stricto
 strictu
 subclasses
 subclassing
@@ -153,7 +153,7 @@ Trapnell
 unsupervisedly
 URI
 Vieira
-villani
+Villani
 Vitor
 Wikibase
 Yannakopoulos
