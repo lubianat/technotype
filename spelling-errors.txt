@@ -70,7 +70,7 @@ Imoto
 inductional
 inductionally
 infratype
-Infratypes
+infratypes
 interpretable
 ionocyte
 ionocytes
