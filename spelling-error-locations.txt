@@ -137,7 +137,9 @@ content/06.practical.md:30:ontologies
 content/06.practical.md:30:publically
 content/06.practical.md:30:technotype
 content/06.practical.md:30:transcriptomics
+content/06.practical.md:32:astrocyte
 content/06.practical.md:32:dataset
+content/06.practical.md:32:mortem
 content/06.practical.md:32:mRNA
 content/06.practical.md:32:Occan
 content/06.practical.md:32:technotype

@@ -2,6 +2,7 @@ Acknowledgements
 Aevermann
 ameboid
 Andrejew
+astrocyte
 Aviv
 axillary
 AXL
@@ -45,7 +46,7 @@ Epitope
 erithrocytes
 eukaryotic
 evolutionarily
-explictly
+Explictly
 FAPESP
 favours
 Fernanda
@@ -70,7 +71,7 @@ Imoto
 inductional
 inductionally
 infratype
-infratypes
+Infratypes
 interpretable
 ionocyte
 ionocytes
@@ -93,6 +94,7 @@ microanatomy
 modelled
 monocytes
 monophyletic
+mortem
 mRNA
 multicellular
 multispecies
@@ -153,7 +155,7 @@ Trapnell
 unsupervisedly
 URI
 Vieira
-Villani
+villani
 Vitor
 Wikibase
 Yannakopoulos
