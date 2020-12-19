@@ -11,3 +11,6 @@ wrap: preserve
 metadata:
   csl: build/assets/style.csl
   link-citations: true
+header-includes:
+  - \usepackage[left]{lineno}
+  - \linenumbers
