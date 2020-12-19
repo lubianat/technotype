@@ -2,20 +2,20 @@
 {
   "id": "wikidata:Q101074371",
   "type": "webpage",
-  "URL": "https://github.com/manubot/rootstock",
-  "title": "manubot/rootstock GitHub repository",
-  "container-title": "GitHub",
+  "URL": "https://www.bioconductor.org/packages/release/bioc/html/ontoProc.html",
+  "title": "ontoProc: processing of ontologies of anatomy, cell lines, and so on ",
+  "container-title": "Bioconductor",
   "issued": {
     "date-parts": [
       [
-        2019
+        2020
       ]
     ]
   },
   "author": [
     {
-      "given": "Daniel",
-      "family": "Himmelstein"
+      "given": "Vince",
+      "family": "Carey"
     }
   ]
 }
