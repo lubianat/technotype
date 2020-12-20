@@ -5,7 +5,7 @@ author-meta:
 bibliography:
 - content/manual-references.json
 date-meta: '2020-12-20'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"citation_title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"og:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"twitter:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"dc.date\" content=\"2020-12-20\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-20\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<meta name=\"citation_author\" content=\"Helder I Nakaya\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5297-9108\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/technotype/v/3ea142220b44c774903a7a0b32ab272e78b3f3c3/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/technotype/v/3ea142220b44c774903a7a0b32ab272e78b3f3c3/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/technotype/v/3ea142220b44c774903a7a0b32ab272e78b3f3c3/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<meta property=\"og:image\" content=\"https://github.com/lubianat/technotype/raw/3ea142220b44c774903a7a0b32ab272e78b3f3c3/content/images/name.png\" />\n<meta property=\"twitter:image\" content=\"https://github.com/lubianat/technotype/raw/3ea142220b44c774903a7a0b32ab272e78b3f3c3/content/images/name.png\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"citation_title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"og:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"twitter:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"dc.date\" content=\"2020-12-20\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-20\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<meta name=\"citation_author\" content=\"Helder I Nakaya\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5297-9108\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/technotype/v/0452e53ed0998b66e917a5fcb172c0c18ad05cb9/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/technotype/v/0452e53ed0998b66e917a5fcb172c0c18ad05cb9/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/technotype/v/0452e53ed0998b66e917a5fcb172c0c18ad05cb9/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<meta property=\"og:image\" content=\"https://github.com/lubianat/technotype/raw/0452e53ed0998b66e917a5fcb172c0c18ad05cb9/content/images/name.png\" />\n<meta property=\"twitter:image\" content=\"https://github.com/lubianat/technotype/raw/0452e53ed0998b66e917a5fcb172c0c18ad05cb9/content/images/name.png\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - cell type
 - nomenclature
@@ -25,9 +25,9 @@ title: Towards a pragmatic definition of cell type
 
 <small><em>
 This manuscript
-([permalink](https://lubianat.github.io/technotype/v/3ea142220b44c774903a7a0b32ab272e78b3f3c3/))
+([permalink](https://lubianat.github.io/technotype/v/0452e53ed0998b66e917a5fcb172c0c18ad05cb9/))
 was automatically generated
-from [lubianat/technotype@3ea1422](https://github.com/lubianat/technotype/tree/3ea142220b44c774903a7a0b32ab272e78b3f3c3)
+from [lubianat/technotype@0452e53](https://github.com/lubianat/technotype/tree/0452e53ed0998b66e917a5fcb172c0c18ad05cb9)
 on December 20, 2020.
 </em></small>
 
@@ -117,7 +117,6 @@ In Part 1, we propose a set of rules that are necessary and sufficient for defin
 Part 2 offers a small set of names for differentiating the main classes of cell types.
 In Part 3, we address the logical consequences of the proposed definitions, while Part 4 is a discussion of the pragmatic challenges envisaged in employing such definitions.
 
-<<<<<<< HEAD
 # 1. A set of 3 + 1 rules for defining a cell type
 
 Our pragmatic definition of cell type (for eukaryotic, multicellular organisms) consists of 3 + 1 simple rules (Figure @fig:rules).
@@ -219,20 +218,13 @@ As Popper defends, knowledge should travel “quasi-inductionally” by fosterin
 
 # 3. Logical consequences of the definition of a cell type
 
-One logical consequence of the rules is that concepts of "subtype" become redundant with "cell type." A "subtype," then, is a concept that only makes sense when talking about classes with different degrees of universality. Thus, claims to discover new cell "subtypes" or "types" differ only stylistically and can be considered indistinguishable in the perspective of research synthesis. 
-
-<<<<<<< HEAD
 One notable logical consequence of the proposed set of criteria is that the definition of a cell state is left as a subclass for cell type.
 For the pragmatic purpose adopted here, we avoid the dissection of the differences between persistent classes of cells (which we refer to as traditional cell types) or the transient, fugacious classes of cells (which we refer to as traditional cell states).
 Even though such a distinction is an important topic for theoretical research, it is not a requirement for representing biomedical experiments.
-=======
-The cell type as defined here, includes both persistent  classes of cells - the traditional cell types - and transient, fugacious classes of cells - often also called states or even programs. Even though such distinctions are important topic for theoretical research, it might not a requirement for representing biomedical experiments. In fact, the fuzzy border  of activity ("traditional cell state") and identity ("traditional cell types") gene expression programs is acknowledged by the community [@doi:10.7554/eLife.43803]  [@wikidata:Q27311570]  . Aviv Regev, a co-chair of the Human Cell Atlas mentioned in a recent  HCA Latin America Meeting, "in a sense, for any cell, at any moment in time, when you are profiling it, what you are seeing is its state. (...) There is the overall state of the cell, which is made of many different programs, some of which represent this more invariant part of the cell's identity that we tend to call a type, whereas others are more variable and they can change for a cell of the same type" (https://youtu.be/1hOwgTH6vZY?list=PLkef4SGmngdbGgJIQh7xDI-lgMZMsl-YJ&t=1089). The rules proposed here aim at harmonizing these ideas, by explicitly allowing cell type definitions to include descriptors related to activity, identity, or a mix of both. 
->>>>>>> master
 
 One example of this entailment is that the class “human cells in metaphase of mitosis” can be considered a cell type, as it can be explicitly defined and restricted to a taxon. 
 Even though “metaphase” itself is a biological process, we can describe all cells executing this process as a singular cell class.
 
-<<<<<<< HEAD
 However, does a dividing fibroblast stop being a fibroblast, even if temporarily?
 Again, we do not aim to answer this in a philosophical-ontological sense. 
 Pragmatically, if the explicit definition used for fibroblast (e.g., expression of a marker) still holds during duplication, this cell can be assigned to two classes that are not hierarchically related: “fibroblasts” and “doubling cells”.
@@ -246,15 +238,6 @@ Cell types need to be represented ontologically with multiple inheritance, which
 Another logical consequence of the definition is that the concept of subtype becomes redundant with the concept of cell type.
 The notion of subtype, then, only makes sense when discussing classes with different degrees of universality.
 Thus, claims to discovery of new cell “subtypes” or “types” differ only stylistically and can be considered indistinguishable from the perspective of research synthesis.
-=======
-However, does a dividing fibroblast stop being a fibroblast, even if temporarily? Again, we do not aim to answer this in a philosophical-ontological sense. Pragmatically, if the explicit definition used for fibroblast (e.g., expression of a marker) still holds during duplication, this cell can be assigned to two  classes that are not hierarchically related: "fibroblasts" and "doubling cells". It is, thus, essential to consider that cells can belong to at least two disjunct classes.
-
-If cells can be assigned to multiple classes that are not hierarchically related, it is not possible to annotate cell types using a single taxonomic tree, in which each concept would be represented by a single node with one (and only one) direct parent node. This is conflicting with attempts to classify cell-types using single hierarchies in the form of a tree [@doi:10.1093/nar/gkz543] [@doi:10.7554/eLife.38619] [@doi:10.1146/annurev-cellbio-100616-060818].  Cell types need to be represented ontologically (in the computational sense), which can be thought of multiple, intertwining trees, which take into account different ways of classifying cells. 
-
-
-
-
->>>>>>> master
 
 
 # 4. Practical consequences of the definition of a cell type
@@ -335,7 +318,6 @@ This flexible, yet rigorous, framework for defining cell types can help us to de
 
 # Final remarks
 
-<<<<<<< HEAD
 In this article, we have proposed a set of three rules (explicit definition, taxon scope restriction, and theoretical usefulness) and one recommendation (hierarchical linking) to be followed when defining cell types.
 We have also proposed four types of naming to clarify discussions on the topic: archetypes (a class with a scope above species level), _sensu stricto_ cell types (a class with scope equal to one species), infratypes (a class with scope below the species level) and technotypes (the exact cell type defined for an experimental setup).
 The concept of the “technotype” can be harnessed as the unit for classifying cells, in a manner analogous to how the “species” is the conventional unit for classifying organisms into higher-order taxa. 
@@ -343,29 +325,18 @@ We have dissected some logical entailments of such definition, which admittedly 
 We do not aim to solve such conflicts or negate the other perspectives but only to propose a unique way of organizing our knowledge on cell types. This article clarifies some of the meanings and provides directions for the future development of the theoretical basis of a cell type definition. 
 The discussion on cell types’ definition is still in its infancy, and we need human power to tackle these huge theoretical challenges. 
 Biologists, philosophers, and computer scientists ought to distill the details of defining cell types, powering the Human Cell Atlas, and the life sciences research enterprise of this century.
-=======
-In this article, we proposed a set of 3 rules (rigorous description, taxon scope restriction, and theoretical usefulness) and 1 recommendation (hierarchical link to other cell types) to define cell types. We also proposed 4 namings to clarify discussions on the topic: archetypes (a class with a scope above species level), _stricto sensu_ cell types (a class with scope equal to  one species), infratypes (a class with scope below the species level) and technotypes (the exact cell type defined for an experimental setup). The concept of the "technotype" can be harnessed as a fundamental taxonomic unit for classifying cells, in an analogous way of how the "species" is the conventional unit for classifying organisms into higher-order taxa. 
-
-We dissected some logical entailments of such definition, which, admittedly,  might conflict with current views on defining cell types. We do not aim at solving such conflicts, or negating the other perspectives, but only propose a different way of organizing our knowledge about cell types. 
-
-This article clarifies some of the meanings and provide directions to the future development of the theoretical basis of cell type definition. The discussion on cell types' definition is still on its infancy, and we need human power to tackle this huge theoretical challenges. Biologists, philosophers, and computer scientists ought to distill the details of defining cell types, powering the Human Cell Atlas, and the life sciences research enterprise of this century.  
->>>>>>> master
 
 
-<<<<<<< HEAD
 # Acknowledgments
 
-We would like to express our gratitude and acknowledge the researches that dedicated time specifically to help us to discuss and refine the basis for developing concepts here presented. Nominally, we thank Kleber Neves, Gabriel Lovate, Cesar Prada, Diógenes Saulo Lima, Lucas Cardozo, Juliane Fernandes, Pedro Medeiros, Érika Molina, Antonio Pedro Vieira, João Vitor Cavalcante, Maria Fernanda Forni, Diorge Souza, Jean Bezerra, Gabriel Sato, Roberta Andrejew and Dimitrius Pramio. Part of this work was supported by grant #2019/26284-1, São Paulo Research Foundation (FAPESP).
-=======
-# Acknowledgements 
-
-We would like to express our gratitude and acknowledge the researches that dedicated time specifically to help us to discuss and refine the basis for developing concepts here presented. Nominally, we thank Kleber Neves, Gabriel Lovate, Cesar Prada, Diógenes Saulo Lima, Lucas Cardozo, Juliane Fernandes, Pedro Medeiros, Érika Molina, Antonio Pedro Vieira, João Vitor Cavalcante, Maria Fernanda Forni, Diorge Souza, Jean Bezerra, Gabriel Sato, Roberta Andrejew, Dimitrius Pramio, Shunfu Mao, Anna Yannakopoulos and Stephanie Hickey for the discussions. The work was also shaped by question-answer interactions with David Osumi-Sutherland and Alexander Diehl (CELLS Workshop and Cell Ontology training 2020), Aviv Regev (HCA Latin America 2020) and Cole Trapnell (ISCB 2020). Part of this work was supported  by grant #2019/26284-1, São Paulo Research Foundation (FAPESP).
->>>>>>> master
+We would like to express our gratitude and acknowledge the researches that dedicated time specifically to help us to discuss and refine the basis for developing concepts here presented. Nominally, we thank Kleber Neves, Gabriel Lovate, Cesar Prada, Diógenes Saulo Lima, Lucas Cardozo, Juliane Fernandes, Pedro Medeiros, Érika Molina, Antonio Pedro Vieira, João Vitor Cavalcante, Maria Fernanda Forni, Diorge Souza, Jean Bezerra, Gabriel Sato, Roberta Andrejew and Dimitrius Pramio. Part of this work was supported by grant [#2019/26284-1, São Paulo Research Foundation (FAPESP)](https://bv.fapesp.br/en/bolsas/193825/building-a-biological-knowledge-graph-via-wikidata-with-a-focus-on-the-human-cell-atlas/).
 
 
-# Supplementary notes which did not end in the text
+# Additional thoughts 
 
-A set of notes that may be incorporated into the final text, or become appendices, or end up as blog posts somewhere. 
+A set of additional thoughts on the pertaining matters, but which do not fit the article (neither as part of the body or the supplements).
+
+This part was not and will not be submitted with this article in its final form or to preprint servers. 
 
 ## What to do when two researchers disagree on a definition?
 
