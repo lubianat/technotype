@@ -5,6 +5,7 @@ keywords:
   - nomenclature
   - classification
 lang: en-US
+thumbnail: content/images/name.png
 authors:
   - github: lubianat
     name: Tiago Lubiana 
@@ -20,7 +21,3 @@ authors:
     email: hnakaya@usp.br
     affiliations:
       - Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of São Paulo, São Paulo, Brazil
-<<<<<<< HEAD
-=======
-
->>>>>>> master
