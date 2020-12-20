@@ -18,5 +18,53 @@
       "family": "Carey"
     }
   ]
+},
+
+{
+  "id": "wikidata:Q1189395",
+  "type": "webpage",
+  "URL": "http://phylonames.org/code/",
+  "title": "International Code of Phylogenetic Nomenclature (PhyloCode) ",
+  "issued": {
+    "date-parts": [
+      [
+        2020
+      ]
+    ]
+  },
+  "author": [
+    {
+      "given": "Philip",
+      "family": "D. Cantino"
+    },
+    {
+      "given": "Kevin",
+      "family": "de Queiroz"
+    }
+  ]
+},
+
+{
+  "id": "wikidata:Q104371223",
+  "type": "article",
+  "publisher": "PsyArXiv",
+  "URL": "https://psyarxiv.com/jqw35",
+  "title": "The generalizability crisis",
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        11,
+        22
+      ]
+    ]
+  },
+  "author": [
+    {
+      "given": "Tal",
+      "family": "Yarkoni"
+    }
+  ]
 }
+
 ]
