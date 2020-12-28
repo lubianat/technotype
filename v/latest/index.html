@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Tiago Lubiana" />
   <meta name="author" content="Helder I Nakaya" />
-  <meta name="dcterms.date" content="2020-12-26" />
+  <meta name="dcterms.date" content="2020-12-28" />
   <meta name="keywords" content="cell type, nomenclature, classification" />
   <title>Towards a pragmatic definition of cell type</title>
   <style>
@@ -29,8 +29,8 @@
   <meta name="citation_title" content="Towards a pragmatic definition of cell type" />
   <meta property="og:title" content="Towards a pragmatic definition of cell type" />
   <meta property="twitter:title" content="Towards a pragmatic definition of cell type" />
-  <meta name="dc.date" content="2020-12-26" />
-  <meta name="citation_publication_date" content="2020-12-26" />
+  <meta name="dc.date" content="2020-12-28" />
+  <meta name="citation_publication_date" content="2020-12-28" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -49,13 +49,13 @@
   <meta name="citation_fulltext_html_url" content="https://lubianat.github.io/technotype/" />
   <meta name="citation_pdf_url" content="https://lubianat.github.io/technotype/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://lubianat.github.io/technotype/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://lubianat.github.io/technotype/v/e620fe41e8e09ac617418f235cb29e2d34ed1964/" />
-  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/technotype/v/e620fe41e8e09ac617418f235cb29e2d34ed1964/" />
-  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/technotype/v/e620fe41e8e09ac617418f235cb29e2d34ed1964/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://lubianat.github.io/technotype/v/5127fe641b27b9b8914d629afddf3c1545dc57de/" />
+  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/technotype/v/5127fe641b27b9b8914d629afddf3c1545dc57de/" />
+  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/technotype/v/5127fe641b27b9b8914d629afddf3c1545dc57de/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/lubianat/technotype/raw/e620fe41e8e09ac617418f235cb29e2d34ed1964/content/images/name.png" />
-  <meta property="twitter:image" content="https://github.com/lubianat/technotype/raw/e620fe41e8e09ac617418f235cb29e2d34ed1964/content/images/name.png" />
+  <meta property="og:image" content="https://github.com/lubianat/technotype/raw/5127fe641b27b9b8914d629afddf3c1545dc57de/content/images/name.png" />
+  <meta property="twitter:image" content="https://github.com/lubianat/technotype/raw/5127fe641b27b9b8914d629afddf3c1545dc57de/content/images/name.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -67,10 +67,10 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://lubianat.github.io/technotype/v/e620fe41e8e09ac617418f235cb29e2d34ed1964/">permalink</a>)
+(<a href="https://lubianat.github.io/technotype/v/5127fe641b27b9b8914d629afddf3c1545dc57de/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/lubianat/technotype/tree/e620fe41e8e09ac617418f235cb29e2d34ed1964">lubianat/technotype@e620fe4</a>
-on December 26, 2020.
+from <a href="https://github.com/lubianat/technotype/tree/5127fe641b27b9b8914d629afddf3c1545dc57de">lubianat/technotype@5127fe6</a>
+on December 28, 2020.
 </em></small></p>
 <h2 id="authors">Authors</h2>
 <ul>
@@ -305,9 +305,7 @@ Thus, the task of finding the exact type of cells in a given experiment, algorit
 For example, instead of claiming that cells from study A and study B are myeloid dendritic cells, we can claim that both cell types belong to the myeloid dendritic cell branch.
 By embracing these real differences between studies (and cells), the precise metadata of the study will enable a precise statement of the cell type.
 This will ultimately allow the coherent reuse of publicly available data.</p>
-<p>The use of the technotype is that it makes data integration a simple task. Let a _sensu <em>stricto</em> human type X be <em>completely</em> defined by “any cell that expresses the <em>CD4</em> gene, but not the <em>CD8A</em> gene”. A definition of this kind allows detection via both mRNA or proteins, as both are evidence that a cell is <em>expressing</em> a gene. Then, only the information about these two genes is used, and the analyst has only to decide what is the threshold for considering a gene as expressed. All cells that matches such pattern would be assigned to a technotype Y, where Y is a subclass of the _sensu <em>stricto</em> human type X. Each cell could receive more than one label (depending on the masks applied to the dataset). A similar rule-based system has been used before to identify different astrocyte states (sic) in post-mortem brains. <span class="citation" data-cites="zLkrYJXK">[<a href="#ref-zLkrYJXK" role="doc-biblioref">55</a>]</span></p>
-<p>This flexible, yet rigorous, framework for defining cell types can help us to deal with the challenges of varying resolution levels of interest and the scaling large datasets. [doi:10.1186/s13059-020-1926-6] The need of an identification routine for cell-type taxonomies is acknowledge for more than 45 years <span class="citation" data-cites="l6iqnp9w">[<a href="#ref-l6iqnp9w" role="doc-biblioref">56</a>]</span>, and still is a core challenge of human cell-type atlases [doi:10.1186/s13059-020-1926-6]. The quest for data-driven cell classification is at least as old <span class="citation" data-cites="l6iqnp9w">[<a href="#ref-l6iqnp9w" role="doc-biblioref">56</a>]</span>. The framework here proposed provides ideas to improve our solutions to both tasks.
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; master</p>
+<p>This flexible, yet rigorous, framework for defining cell types can help us to deal with the challenges of varying resolution levels of interest and the scaling large datasets. [doi:10.1186/s13059-020-1926-6] The need of an identification routine for cell-type taxonomies is acknowledge for more than 45 years <span class="citation" data-cites="l6iqnp9w">[<a href="#ref-l6iqnp9w" role="doc-biblioref">55</a>]</span>, and still is a core challenge of human cell-type atlases [doi:10.1186/s13059-020-1926-6]. The quest for data-driven cell classification is at least as old <span class="citation" data-cites="l6iqnp9w">[<a href="#ref-l6iqnp9w" role="doc-biblioref">55</a>]</span>. The framework here proposed provides ideas to improve our solutions to both tasks.</p>
 <h1 id="final-remarks">Final remarks</h1>
 <p>In this article, we have proposed a set of three rules (explicit definition, taxon scope restriction, and theoretical usefulness) and one recommendation (hierarchical linking) to be followed when defining cell types.
 We have also proposed four types of naming to clarify discussions on the topic: archetypes (a class with a scope above species level), <em>sensu stricto</em> cell types (a class with scope equal to one species), infratypes (a class with scope below the species level) and technotypes (the exact cell type defined for an experimental setup).
@@ -368,9 +366,9 @@ Biologists, philosophers, and computer scientists ought to distill the details o
 <h2 id="phenetic-species-concept">Phenetic Species Concept</h2>
 <p>Thn Phenetic Species Concept states that species are the smallest groups that are consistently and persistently distinct and distinguishable by ordinary means.
 Maybe that is crosslinkable.</p>
-<p>The link between the phenetic species concept and the classification of cell types has been noted before. <span class="citation" data-cites="klRLs2Ss">[<a href="#ref-klRLs2Ss" role="doc-biblioref">57</a>]</span>
+<p>The link between the phenetic species concept and the classification of cell types has been noted before. <span class="citation" data-cites="klRLs2Ss">[<a href="#ref-klRLs2Ss" role="doc-biblioref">56</a>]</span>
 The ideas of explicit definitions and hierarchical relations resound with the goals of this article.</p>
-<p>In this work<span class="citation" data-cites="klRLs2Ss">[<a href="#ref-klRLs2Ss" role="doc-biblioref">57</a>]</span> , they mention 5 facets of phenetic systematics:
+<p>In this work<span class="citation" data-cites="klRLs2Ss">[<a href="#ref-klRLs2Ss" role="doc-biblioref">56</a>]</span> , they mention 5 facets of phenetic systematics:
 - Group (that is, ‘type’) membership should be based on multiple criteria rather than on a single so‑called ‘essential’ feature that the investigator favours.
 - The criteria for group membership should be rule‑based, explicit and quantitative.
 - Groupings should be hierarchical rather than flat to acknowledge the validity of both coarse and fine divisions.
@@ -695,20 +693,14 @@ Sheng Wang, Angela Oliveira Pisco, Aaron McGeever, Maria Brbic, Marinka Zitnik, 
 Shunfu Mao, Yue Zhang, Georg Seelig, Sreeram Kannan<br />
 (2020-05-31) <a href="https://www.wikidata.org/wiki/Q104371393">https://www.wikidata.org/wiki/Q104371393</a></p>
 </div>
-<div id="ref-zLkrYJXK">
-<p>55. <strong>Single-nucleus RNA-seq identifies Huntington disease astrocyte states</strong> <br />
-Osama Al-Dalahmah, Alexander A. Sosunov, A. Shaik, Kenneth Ofori, Yang Liu, Jean Paul Vonsattel, Istvan Adorjan, Vilas Menon, James E. Goldman<br />
-<em>Acta neuropathologica communications</em> (2020-02-18) <a href="https://www.wikidata.org/wiki/Q89763874">https://www.wikidata.org/wiki/Q89763874</a> <br />
-DOI: <a href="https://doi.org/10.1186/s40478-020-0880-6">10.1186/s40478-020-0880-6</a></p>
-</div>
 <div id="ref-l6iqnp9w">
-<p>56. <strong>The naming of neurons: applications of taxonomic theory to the study of cellular populations.</strong> <br />
+<p>55. <strong>The naming of neurons: applications of taxonomic theory to the study of cellular populations.</strong> <br />
 Tyner CF<br />
 <em>Brain, Behavior and Evolution</em> (1975-01-01) <a href="https://www.wikidata.org/wiki/Q34065481">https://www.wikidata.org/wiki/Q34065481</a> <br />
 DOI: <a href="https://doi.org/10.1159/000124141">10.1159/000124141</a></p>
 </div>
 <div id="ref-klRLs2Ss">
-<p>57. <strong>Neuronal cell-type classification: challenges, opportunities and the path forward</strong> <br />
+<p>56. <strong>Neuronal cell-type classification: challenges, opportunities and the path forward</strong> <br />
 Hongkui Zeng, Joshua R. Sanes<br />
 <em>Nature Reviews Neuroscience</em> (2017-08-03) <a href="https://doi.org/gbq3m8">https://doi.org/gbq3m8</a> <br />
 DOI: <a href="https://doi.org/10.1038/nrn.2017.85">10.1038/nrn.2017.85</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28775344">28775344</a></p>
