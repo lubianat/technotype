@@ -1,7 +1,6 @@
 Aevermann
 ameboid
 Andrejew
-astrocyte
 axillary
 AXL
 basophils
@@ -77,8 +76,6 @@ metaphase
 microanatomy
 monocytes
 monophyletic
-mortem
-mRNA
 multicellular
 musculus
 myeloid
@@ -96,7 +93,7 @@ Osumi
 oxyphilic
 Özel
 Paulo
-Phenetic
+phenetic
 PhenoGenetic
 ploidy
 Pramio

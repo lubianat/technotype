@@ -132,13 +132,7 @@ content/06.practical.md:66:dendritic
 content/06.practical.md:66:dendritic
 content/06.practical.md:66:myeloid
 content/06.practical.md:66:myeloid
-content/06.practical.md:71:astrocyte
-content/06.practical.md:71:dataset
-content/06.practical.md:71:mortem
-content/06.practical.md:71:mRNA
-content/06.practical.md:71:technotype
-content/06.practical.md:71:technotype
-content/06.practical.md:73:datasets
+content/06.practical.md:70:datasets
 content/07.final.md:4:infratypes
 content/07.final.md:4:technotypes
 content/07.final.md:5:technotype
