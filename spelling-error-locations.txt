@@ -54,6 +54,7 @@ content/04.names.md:20:infratypes
 content/04.names.md:20:infratypes
 content/04.names.md:20:Paulo
 content/04.names.md:20:São
+content/04.names.md:21:Tabansky
 content/04.names.md:22:technotypes
 content/04.names.md:24:technotype
 content/04.names.md:28:datasets

@@ -93,7 +93,7 @@ Osumi
 oxyphilic
 Özel
 Paulo
-phenetic
+Phenetic
 PhenoGenetic
 ploidy
 Pramio
@@ -120,6 +120,7 @@ superclass
 superclasses
 systematics
 Syt
+Tabansky
 taxons
 technotype
 technotypes
@@ -130,7 +131,7 @@ transcriptomics
 unsupervisedly
 URI
 Vieira
-villani
+Villani
 Vitor
 Wikibase
 Yarkoni
