@@ -4,8 +4,8 @@ author-meta:
 - Helder I Nakaya
 bibliography:
 - content/manual-references.json
-date-meta: '2021-01-06'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"citation_title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"og:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"twitter:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"dc.date\" content=\"2021-01-06\" />\n<meta name=\"citation_publication_date\" content=\"2021-01-06\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<meta name=\"citation_author\" content=\"Helder I Nakaya\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5297-9108\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/technotype/v/3557c0a093390da9ee19c65f86870ce6963b4537/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/technotype/v/3557c0a093390da9ee19c65f86870ce6963b4537/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/technotype/v/3557c0a093390da9ee19c65f86870ce6963b4537/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<meta property=\"og:image\" content=\"https://github.com/lubianat/technotype/raw/3557c0a093390da9ee19c65f86870ce6963b4537/content/images/name.png\" />\n<meta property=\"twitter:image\" content=\"https://github.com/lubianat/technotype/raw/3557c0a093390da9ee19c65f86870ce6963b4537/content/images/name.png\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+date-meta: '2021-01-07'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"citation_title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"og:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"twitter:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"dc.date\" content=\"2021-01-07\" />\n<meta name=\"citation_publication_date\" content=\"2021-01-07\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<meta name=\"citation_author\" content=\"Helder I Nakaya\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5297-9108\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/technotype/v/953ba1014513b8fae7e99086fe8b0efb8c53111e/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/technotype/v/953ba1014513b8fae7e99086fe8b0efb8c53111e/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/technotype/v/953ba1014513b8fae7e99086fe8b0efb8c53111e/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<meta property=\"og:image\" content=\"https://github.com/lubianat/technotype/raw/953ba1014513b8fae7e99086fe8b0efb8c53111e/content/images/name.png\" />\n<meta property=\"twitter:image\" content=\"https://github.com/lubianat/technotype/raw/953ba1014513b8fae7e99086fe8b0efb8c53111e/content/images/name.png\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - cell type
 - nomenclature
@@ -25,10 +25,10 @@ title: Towards a pragmatic definition of cell type
 
 <small><em>
 This manuscript
-([permalink](https://lubianat.github.io/technotype/v/3557c0a093390da9ee19c65f86870ce6963b4537/))
+([permalink](https://lubianat.github.io/technotype/v/953ba1014513b8fae7e99086fe8b0efb8c53111e/))
 was automatically generated
-from [lubianat/technotype@3557c0a](https://github.com/lubianat/technotype/tree/3557c0a093390da9ee19c65f86870ce6963b4537)
-on January 6, 2021.
+from [lubianat/technotype@953ba10](https://github.com/lubianat/technotype/tree/953ba1014513b8fae7e99086fe8b0efb8c53111e)
+on January 7, 2021.
 </em></small>
 
 ## Authors
@@ -418,13 +418,28 @@ This is not an attempt to claim anything about the "true" nature of cell types, 
 
 This is not an attempt to solve _all_ problems for cell type data annotation. It is the introduction of alternatives that need to be further developed and discussed.
 
-## Immune Epithope DB
+## Why are we doing this?
+
+A series of examples of why a pragmatic definition is useful
+### Immune Epithope DB
 
 The   Immune Epitope Database and Analysis Resource (IEDB)  announced it in 2006  [doi:10.1371/journal.pcbi.0020125]: 
 
 "the goal of the IEDB is to present as much information as possible without subjective interpretation, we can never presume any information, but rather we must try to capture the data exactly as presented in the reference, while maintaining the conclusions of the reference in a uniform manner. For example, if all experiments are performed with a whole cell population, but the authors attribute the response to a particular cell type without any evidence, we must capture the effector cells as the entire population."
 
 That is the kind of challenge that the "technotype" solves in theory, as it gets the objective population sampled in any article. 
+
+### Nanopublications
+
+Nanopublications [@wikidata:Q57011346] are semantically-rich publications of single assertions. If we want to have computable assertions, it is a good idea to have pragmatic definitions. 
+
+This is the case for having better representations of primary datasets representation of 
+primary data and datasets (as explained in [@wikidata:Q22676713] and exemplified in [@wikidata:Q31194033]). 
+
+Some argue (eloquently) for immutable, citable datasets, which could be shared via trusty URIs, for example, which contain hash values in the URI that prevent silent changes [@wikidata:Q56915510]. It is of our interest that these immutable, core datasets also use very solid concepts when representing information. Ideally, not only using unique identifiers [@wikidata:Q33037209] but pointing to concepts backed up by a solid theory. As Thomas Gruber argues, "an ontology is only a specification, and the utility of an ontology ultimately depends on the utility of the theory it represents."   [@wikidata:Q47303277]
+
+
+
 
 ## Phenetic Species Concept
 

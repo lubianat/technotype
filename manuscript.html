@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Tiago Lubiana" />
   <meta name="author" content="Helder I Nakaya" />
-  <meta name="dcterms.date" content="2021-01-06" />
+  <meta name="dcterms.date" content="2021-01-07" />
   <meta name="keywords" content="cell type, nomenclature, classification" />
   <title>Towards a pragmatic definition of cell type</title>
   <style>
@@ -29,8 +29,8 @@
   <meta name="citation_title" content="Towards a pragmatic definition of cell type" />
   <meta property="og:title" content="Towards a pragmatic definition of cell type" />
   <meta property="twitter:title" content="Towards a pragmatic definition of cell type" />
-  <meta name="dc.date" content="2021-01-06" />
-  <meta name="citation_publication_date" content="2021-01-06" />
+  <meta name="dc.date" content="2021-01-07" />
+  <meta name="citation_publication_date" content="2021-01-07" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -49,13 +49,13 @@
   <meta name="citation_fulltext_html_url" content="https://lubianat.github.io/technotype/" />
   <meta name="citation_pdf_url" content="https://lubianat.github.io/technotype/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://lubianat.github.io/technotype/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://lubianat.github.io/technotype/v/3557c0a093390da9ee19c65f86870ce6963b4537/" />
-  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/technotype/v/3557c0a093390da9ee19c65f86870ce6963b4537/" />
-  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/technotype/v/3557c0a093390da9ee19c65f86870ce6963b4537/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://lubianat.github.io/technotype/v/953ba1014513b8fae7e99086fe8b0efb8c53111e/" />
+  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/technotype/v/953ba1014513b8fae7e99086fe8b0efb8c53111e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/technotype/v/953ba1014513b8fae7e99086fe8b0efb8c53111e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/lubianat/technotype/raw/3557c0a093390da9ee19c65f86870ce6963b4537/content/images/name.png" />
-  <meta property="twitter:image" content="https://github.com/lubianat/technotype/raw/3557c0a093390da9ee19c65f86870ce6963b4537/content/images/name.png" />
+  <meta property="og:image" content="https://github.com/lubianat/technotype/raw/953ba1014513b8fae7e99086fe8b0efb8c53111e/content/images/name.png" />
+  <meta property="twitter:image" content="https://github.com/lubianat/technotype/raw/953ba1014513b8fae7e99086fe8b0efb8c53111e/content/images/name.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -67,10 +67,10 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://lubianat.github.io/technotype/v/3557c0a093390da9ee19c65f86870ce6963b4537/">permalink</a>)
+(<a href="https://lubianat.github.io/technotype/v/953ba1014513b8fae7e99086fe8b0efb8c53111e/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/lubianat/technotype/tree/3557c0a093390da9ee19c65f86870ce6963b4537">lubianat/technotype@3557c0a</a>
-on January 6, 2021.
+from <a href="https://github.com/lubianat/technotype/tree/953ba1014513b8fae7e99086fe8b0efb8c53111e">lubianat/technotype@953ba10</a>
+on January 7, 2021.
 </em></small></p>
 <h2 id="authors">Authors</h2>
 <ul>
@@ -359,16 +359,23 @@ Biologists, philosophers, and computer scientists ought to distill the details o
 <p>This is not an attempt to have a one-size-fits-all definition of cell type. It is built as a theoretical solution for one cell-type related task. Similar to species definitions, we need an ecosystem of cell-type and cell state definitions that better suit different areas.</p>
 <p>This is not an attempt to claim anything about the “true” nature of cell types, in the biological sense. It is a proposal of pratical guidelines to represent research data.</p>
 <p>This is not an attempt to solve <em>all</em> problems for cell type data annotation. It is the introduction of alternatives that need to be further developed and discussed.</p>
-<h2 id="immune-epithope-db">Immune Epithope DB</h2>
+<h2 id="why-are-we-doing-this">Why are we doing this?</h2>
+<p>A series of examples of why a pragmatic definition is useful
+### Immune Epithope DB</p>
 <p>The Immune Epitope Database and Analysis Resource (IEDB) announced it in 2006 [doi:10.1371/journal.pcbi.0020125]:</p>
 <p>“the goal of the IEDB is to present as much information as possible without subjective interpretation, we can never presume any information, but rather we must try to capture the data exactly as presented in the reference, while maintaining the conclusions of the reference in a uniform manner. For example, if all experiments are performed with a whole cell population, but the authors attribute the response to a particular cell type without any evidence, we must capture the effector cells as the entire population.”</p>
 <p>That is the kind of challenge that the “technotype” solves in theory, as it gets the objective population sampled in any article.</p>
+<h3 id="nanopublications">Nanopublications</h3>
+<p>Nanopublications <span class="citation" data-cites="15fouRp8w">[<a href="#ref-15fouRp8w" role="doc-biblioref">57</a>]</span> are semantically-rich publications of single assertions. If we want to have computable assertions, it is a good idea to have pragmatic definitions.</p>
+<p>This is the case for having better representations of primary datasets representation of
+primary data and datasets (as explained in <span class="citation" data-cites="Wh7e1J9C">[<a href="#ref-Wh7e1J9C" role="doc-biblioref">58</a>]</span> and exemplified in <span class="citation" data-cites="Z9gxBKow">[<a href="#ref-Z9gxBKow" role="doc-biblioref">59</a>]</span>).</p>
+<p>Some argue (eloquently) for immutable, citable datasets, which could be shared via trusty URIs, for example, which contain hash values in the URI that prevent silent changes <span class="citation" data-cites="nQbx3HQU">[<a href="#ref-nQbx3HQU" role="doc-biblioref">60</a>]</span>. It is of our interest that these immutable, core datasets also use very solid concepts when representing information. Ideally, not only using unique identifiers <span class="citation" data-cites="tvnuubVW">[<a href="#ref-tvnuubVW" role="doc-biblioref">61</a>]</span> but pointing to concepts backed up by a solid theory. As Thomas Gruber argues, “an ontology is only a specification, and the utility of an ontology ultimately depends on the utility of the theory it represents.” <span class="citation" data-cites="vEMy8kks">[<a href="#ref-vEMy8kks" role="doc-biblioref">25</a>]</span></p>
 <h2 id="phenetic-species-concept">Phenetic Species Concept</h2>
 <p>Thn Phenetic Species Concept states that species are the smallest groups that are consistently and persistently distinct and distinguishable by ordinary means.
 Maybe that is crosslinkable.</p>
-<p>The link between the phenetic species concept and the classification of cell types has been noted before. <span class="citation" data-cites="klRLs2Ss">[<a href="#ref-klRLs2Ss" role="doc-biblioref">57</a>]</span>
+<p>The link between the phenetic species concept and the classification of cell types has been noted before. <span class="citation" data-cites="klRLs2Ss">[<a href="#ref-klRLs2Ss" role="doc-biblioref">62</a>]</span>
 The ideas of explicit definitions and hierarchical relations resound with the goals of this article.</p>
-<p>In this work<span class="citation" data-cites="klRLs2Ss">[<a href="#ref-klRLs2Ss" role="doc-biblioref">57</a>]</span> , they mention 5 facets of phenetic systematics:
+<p>In this work<span class="citation" data-cites="klRLs2Ss">[<a href="#ref-klRLs2Ss" role="doc-biblioref">62</a>]</span> , they mention 5 facets of phenetic systematics:
 - Group (that is, ‘type’) membership should be based on multiple criteria rather than on a single so‑called ‘essential’ feature that the investigator favours.
 - The criteria for group membership should be rule‑based, explicit and quantitative.
 - Groupings should be hierarchical rather than flat to acknowledge the validity of both coarse and fine divisions.
@@ -706,8 +713,38 @@ Tyner CF<br />
 <em>Brain, Behavior and Evolution</em> (1975-01-01) <a href="https://www.wikidata.org/wiki/Q34065481">https://www.wikidata.org/wiki/Q34065481</a> <br />
 DOI: <a href="https://doi.org/10.1159/000124141">10.1159/000124141</a></p>
 </div>
+<div id="ref-15fouRp8w">
+<p>57. <strong>The anatomy of a nanopublication</strong> <br />
+Paul Groth, Andrew Gibson, Jan Velterop<br />
+<em>Information Services &amp; Use</em> (2010-09-21) <a href="https://www.wikidata.org/wiki/Q57011346">https://www.wikidata.org/wiki/Q57011346</a> <br />
+DOI: <a href="https://doi.org/10.3233/isu-2010-0613">10.3233/isu-2010-0613</a></p>
+</div>
+<div id="ref-Wh7e1J9C">
+<p>58. <strong>The value of data</strong> <br />
+Barend Mons, Herman van Haagen, Christine Chichester, Peter-Bram ’t Hoen, Johan T. den Dunnen, Gertjan van Ommen, Erik M. van Mulligen, Bharat Singh, Rob Hooft, Marco Roos, … Erik Schultes<br />
+<em>Nature Genetics</em> (2011-03-29) <a href="https://www.wikidata.org/wiki/Q22676713">https://www.wikidata.org/wiki/Q22676713</a> <br />
+DOI: <a href="https://doi.org/10.1038/ng0411-281">10.1038/ng0411-281</a></p>
+</div>
+<div id="ref-Z9gxBKow">
+<p>59. <strong>Publishing DisGeNET as nanopublications</strong> <br />
+Núria Queralt Rosinach, Tobias Kuhn, Christine Chichester, Michel Dumontier, Ferran Sanz, Laura I. Furlong<br />
+<em>Semantic Web: interoperability, usability, applicability</em> (2016-06-23) <a href="https://www.wikidata.org/wiki/Q31194033">https://www.wikidata.org/wiki/Q31194033</a> <br />
+DOI: <a href="https://doi.org/10.3233/sw-150189">10.3233/sw-150189</a></p>
+</div>
+<div id="ref-nQbx3HQU">
+<p>60. <strong>Trusty URIs: Verifiable, Immutable, and Permanent Digital Artifacts for Linked Data</strong> <br />
+Tobias Kuhn, Michel Dumontier<br />
+<em>Lecture Notes in Computer Science</em> (2014-01-01) <a href="https://www.wikidata.org/wiki/Q56915510">https://www.wikidata.org/wiki/Q56915510</a> <br />
+DOI: <a href="https://doi.org/10.1007/978-3-319-07443-6_27">10.1007/978-3-319-07443-6_27</a></p>
+</div>
+<div id="ref-tvnuubVW">
+<p>61. <strong>Identifiers for the 21st century: How to design, provision, and reuse persistent identifiers to maximize utility and impact of life science data</strong> <br />
+Julie A. McMurry, Julie A. McMurry, Nick Juty, Niklas Blomberg, Tony Burdett, Tom Conlin, Nathalie Conte, Melanie Courtot, John Deck, Michel Dumontier, … Helen Parkinson<br />
+<em>PLOS Biology</em> (2017-06-29) <a href="https://www.wikidata.org/wiki/Q33037209">https://www.wikidata.org/wiki/Q33037209</a> <br />
+DOI: <a href="https://doi.org/10.1371/journal.pbio.2001414">10.1371/journal.pbio.2001414</a></p>
+</div>
 <div id="ref-klRLs2Ss">
-<p>57. <strong>Neuronal cell-type classification: challenges, opportunities and the path forward</strong> <br />
+<p>62. <strong>Neuronal cell-type classification: challenges, opportunities and the path forward</strong> <br />
 Hongkui Zeng, Joshua R. Sanes<br />
 <em>Nature Reviews Neuroscience</em> (2017-08-03) <a href="https://doi.org/gbq3m8">https://doi.org/gbq3m8</a> <br />
 DOI: <a href="https://doi.org/10.1038/nrn.2017.85">10.1038/nrn.2017.85</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28775344">28775344</a></p>

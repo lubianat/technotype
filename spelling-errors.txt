@@ -10,15 +10,17 @@ Cajal
 Cavalcante
 centric
 CFTR
+citable
 clades
 coexistential
+computable
 CoRC
 crosslinkable
 CSF
 cytometry
 dataset
 datasets
-Dendritic
+dendritic
 differentially
 Dimitrius
 Diógenes
@@ -46,6 +48,7 @@ fibroblast
 fibroblasts
 Forni
 fugacious
+Gruber
 Helder
 hematoxylin
 histochemical
@@ -81,6 +84,7 @@ musculus
 myeloid
 Nakaya
 namings
+Nanopublications
 neuroscience
 neutrophils
 Neves
