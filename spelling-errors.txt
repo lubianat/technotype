@@ -2,6 +2,7 @@ Aevermann
 ameboid
 Andrejew
 axillary
+axiomatization
 AXL
 basophils
 Bezerra
@@ -20,7 +21,7 @@ CSF
 cytometry
 dataset
 datasets
-Dendritic
+dendritic
 differentially
 Dimitrius
 Diógenes
@@ -77,6 +78,7 @@ Ly
 Medeiros
 metaphase
 microanatomy
+middleground
 monocytes
 monophyletic
 multicellular
@@ -97,7 +99,7 @@ Osumi
 oxyphilic
 Özel
 Paulo
-phenetic
+Phenetic
 PhenoGenetic
 ploidy
 Pramio
@@ -116,7 +118,6 @@ SIGLEC
 Souza
 stricto
 subclasses
-subclassing
 subpopulation
 subtype
 subtypes
@@ -135,7 +136,7 @@ transcriptomics
 unsupervisedly
 URI
 Vieira
-Villani
+villani
 Vitor
 Wikibase
 Yarkoni
