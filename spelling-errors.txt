@@ -99,7 +99,7 @@ Osumi
 oxyphilic
 Özel
 Paulo
-Phenetic
+phenetic
 PhenoGenetic
 ploidy
 Pramio
@@ -136,7 +136,7 @@ transcriptomics
 unsupervisedly
 URI
 Vieira
-villani
+Villani
 Vitor
 Wikibase
 Yarkoni
