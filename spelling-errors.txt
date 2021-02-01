@@ -21,7 +21,7 @@ CSF
 cytometry
 dataset
 datasets
-dendritic
+Dendritic
 differentially
 Dimitrius
 Diógenes
@@ -136,7 +136,7 @@ transcriptomics
 unsupervisedly
 URI
 Vieira
-Villani
+villani
 Vitor
 Wikibase
 Yarkoni
