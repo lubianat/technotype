@@ -1,6 +1,7 @@
 Aevermann
 ameboid
 Andrejew
+appliable
 axillary
 axiomatization
 AXL
@@ -8,11 +9,11 @@ basophils
 Bezerra
 biocurators
 Cajal
+catalogued
 Cavalcante
 centric
 CFTR
 citable
-clades
 coexistential
 computable
 CoRC
@@ -21,17 +22,17 @@ CSF
 cytometry
 dataset
 datasets
-Dendritic
+dendritic
 differentially
 Dimitrius
 Diógenes
 Diorge
 discoverable
 dissectible
-Drosophila
 effector
 electrophysiologists
 electrophysiology
+englobes
 entailments
 eosin
 Epithope
@@ -40,7 +41,6 @@ Epitope
 essentialist
 eukaryotic
 evolutionarily
-explicitily
 FAPESP
 favours
 Fernanda
@@ -60,6 +60,7 @@ IEDB
 inductionally
 infratype
 infratypes
+intersubjectively
 ionocyte
 ionocytes
 João
@@ -78,7 +79,6 @@ metaphase
 microanatomy
 middleground
 monocytes
-monophyletic
 multicellular
 musculus
 myeloid
@@ -95,9 +95,8 @@ ontologically
 ontologies
 Osumi
 oxyphilic
-Özel
 Paulo
-Phenetic
+phenetic
 PhenoGenetic
 ploidy
 Pramio
@@ -119,7 +118,6 @@ subpopulation
 subtype
 subtypes
 superclass
-superclasses
 systematics
 Syt
 Tabansky
@@ -128,11 +126,11 @@ technotype
 technotypes
 Thn
 Tiago
-transcriptome
 transcriptomics
+undivisible
 URI
 Vieira
-villani
+Villani
 Vitor
 Wikibase
 Yarkoni

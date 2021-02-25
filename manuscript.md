@@ -5,7 +5,7 @@ author-meta:
 bibliography:
 - content/manual-references.json
 date-meta: '2021-02-25'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"citation_title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"og:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"twitter:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"dc.date\" content=\"2021-02-25\" />\n<meta name=\"citation_publication_date\" content=\"2021-02-25\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<meta name=\"citation_author\" content=\"Helder I Nakaya\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5297-9108\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/technotype/v/b5a59a844d66194517e1f8ab511e52c92d2a3b15/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/technotype/v/b5a59a844d66194517e1f8ab511e52c92d2a3b15/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/technotype/v/b5a59a844d66194517e1f8ab511e52c92d2a3b15/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<meta property=\"og:image\" content=\"https://github.com/lubianat/technotype/raw/b5a59a844d66194517e1f8ab511e52c92d2a3b15/content/images/name.png\" />\n<meta property=\"twitter:image\" content=\"https://github.com/lubianat/technotype/raw/b5a59a844d66194517e1f8ab511e52c92d2a3b15/content/images/name.png\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"citation_title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"og:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"twitter:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"dc.date\" content=\"2021-02-25\" />\n<meta name=\"citation_publication_date\" content=\"2021-02-25\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<meta name=\"citation_author\" content=\"Helder I Nakaya\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5297-9108\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/technotype/v/a92f6db878f9812db3dfcb3b49dc866c15c7655a/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/technotype/v/a92f6db878f9812db3dfcb3b49dc866c15c7655a/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/technotype/v/a92f6db878f9812db3dfcb3b49dc866c15c7655a/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<meta property=\"og:image\" content=\"https://github.com/lubianat/technotype/raw/a92f6db878f9812db3dfcb3b49dc866c15c7655a/content/images/name.png\" />\n<meta property=\"twitter:image\" content=\"https://github.com/lubianat/technotype/raw/a92f6db878f9812db3dfcb3b49dc866c15c7655a/content/images/name.png\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - cell type
 - nomenclature
@@ -25,9 +25,9 @@ title: Towards a pragmatic definition of cell type
 
 <small><em>
 This manuscript
-([permalink](https://lubianat.github.io/technotype/v/b5a59a844d66194517e1f8ab511e52c92d2a3b15/))
+([permalink](https://lubianat.github.io/technotype/v/a92f6db878f9812db3dfcb3b49dc866c15c7655a/))
 was automatically generated
-from [lubianat/technotype@b5a59a8](https://github.com/lubianat/technotype/tree/b5a59a844d66194517e1f8ab511e52c92d2a3b15)
+from [lubianat/technotype@a92f6db](https://github.com/lubianat/technotype/tree/a92f6db878f9812db3dfcb3b49dc866c15c7655a)
 on February 25, 2021.
 </em></small>
 
@@ -116,9 +116,9 @@ In Part 1, we propose a set of rules that are necessary and sufficient for defin
 Part 2 offers a small set of names for differentiating the main classes of cell types.
 In Part 3, we address the logical consequences of the proposed definitions, while Part 4 discusses the practical challenges envisaged in employing such definitions.
 
-# 1. A set of 3 + 1 rules for defining a cell type
+# 1. A set of 4 rules for defining a cell type
 
-Our pragmatic definition of cell type (for eukaryotic, multicellular organisms) consists of 3 + 1 simple rules (Figure @fig:rules).
+Our pragmatic definition of cell type (for eukaryotic, multicellular organisms) consists of 4 simple rules (Figure @fig:rules).
 A cell type is a class of cells that must be:
 
 1. Explicitly defined
@@ -127,13 +127,13 @@ A cell type is a class of cells that must be:
 
 And that should be:
 
-4. Hierarchically related to other cell types
+4. Ontologically related to other cell types
 
-![ The set of 3 + 1 rules for defining a cell type.](images/four_rules_hn.jpg){#fig:rules}
+![ The set of 4 rules for defining a cell type.](images/four_rules_hn.jpg){#fig:rules}
 
 Here, "must" represents an absolute requirement, whereas "should" suggests that "there may exist valid reasons in particular circumstances to ignore a particular item" (as per RFC 2119 [@wikidata:Q104060055]).
 
-For rule 1, we mean that the cell type needs to be followed by a clear definition that would allow rational judgments of whether a singular cell belongs to the type or not.
+For rule 1, we argue that the cell type needs to be followed by a clear definition that would allow rational judgments of whether a singular cell belongs to the type or not.
 Such definitions should be complete [@wikidata:Q47303277] and provide necessary and sufficient criteria for classification. An example is a cell type defined by "expression of the proteins CD3 and CD4, but lacking CD8."
 Even though there is still some ambiguity (see [@doi:10.1186/s12859-019-2725-5; @doi:10.1093/bioinformatics/btu807] for longer discussions), it already states clear and reasonable criteria.
 The degree of rigorousness cannot be decided a priori, as we still do not have a rigorous framework for representing biological knowledge, but we should strive to make definitions as rigorous as possible.
@@ -146,39 +146,36 @@ Other examples of what could be explicit definitions are as follows:
 The recognition of multiple valid characteristics to define types is not new.
 The first Cell Ontology article, in 2005, explicitly acknowledged criteria based on function, histology, lineage, and ploidy. [@wikidata:Q21184168]
 These features were combined in the definitions of "species-neutral" cell types, arguably useful for integrating databases or teaching biology. [@doi:10.1186/s13326-016-0088-7]
-Gradually, we acknowledge that we might need more specific classes to characterize experimental biology, leading to the definition of species-specific types defined by granular characteristics. [@doi:10.1186/s12859-017-1980-6; @doi:10.1186/1471-2105-12-6]
+Gradually, we acknowledge that we might need more specific classes to characterize experimental biology, leading to the definition of species-specific types defined by granular characteristics. [@doi:10.1186/s12859-017-1980-6; @doi:10.1186/1471-2105-12-6]. Thus, even though it steers away from current "gut feeling", implicit descriptions, rule 1 is essential for logical coherence when dealing with the concept in a formal setting.
 
-Rule 2 is an explicit criterion that must be followed while discussing cell types scientifically; we need to define the taxa for which a given cell type is expected to manifest.
-The scope is not only a taxonomic constraint (in a sense used in the Gene Ontology [@wikidata:Q33727235]); it states that the cell type needs to be discoverable in any individual of the taxon (or taxa) of interest, given the appropriate conditions (e.g., stage of life and biological sex). 
-The set of taxa covered by a cell type is called here a taxonomic scope (or just scope) of the cell type.
-Note that, as analogous (and non-homologous) traits can define cell types, the taxonomic scope is not restricted to monophyletic taxa (clades).
-The definition of taxon used here is liberal and applies to any class of organisms that any researcher identifies explicitly as a unit.
-
-Knowing the scope is essential to avoid the pitfalls of extrapolation.
-A recurrent theme is that theories corroborated by mouse experiments are valid for human cell types.
-Such extrapolation is an instance of the classic problem of induction, which is discussed thoroughly in "The Logic of Scientific Discovery". [@wikidata:Q1868040]
-The taxonomic scope allows us, researchers, to be transparent regarding our claims and better discern what we claim to be valid for a strain, a species, or any other class of organisms. 
+Rule 2 argues for clarity on the taxa for which a given cell type is expected to manifest, i. e., its taxonomic scope.
+The scope is not only a constraint (in a sense used in the Gene Ontology [@wikidata:Q33727235]); it states that the cell type needs to be discoverable in any individual of the taxa of interest, given the appropriate conditions (e.g., stage of life and biological sex). 
+The definition of taxon used here is as broad as possible, and englobes to classical taxons such as strains, species and so on, but also consider different probed populations.
+"Taxon" here might be any class of organisms, such as "citizens of São Paulo, Brazil" or "purple fish". 
+The flexibility is necessary to fit the different populations actually probed in the real world. 
+Even so, the taxonomic scope is necessary for making transparent, falsifiable statements about cell types. 
 
 Rule 3, regarding the usefulness, deals with a practical concern.
 Rigorously, there is an infinite number of explicit definitions that any scientist might come up with.
 One simple proof of this infinitude is that size-based cell definitions (as for "big cell" above) may alone consider any of the infinite real numbers.
-Thus, a cell type "bigger than 7.835 micrometers" might fit the first two rules but will likely fail rule 3.
-As a research community, if we want to characterize _all_ human cell types, we may need to have a finite number of cell types.
-Rule 3 could be paraphrased as: a valid cell type is a class of cells that any researcher rationally finds useful for a theoretical perspective of reality.
-For example, a recent study used single-cell RNA-seq experiments to assign 275,000 Drosophila cells into 200 cell types. [@wikidata:Q101226729]
-Since these 200 cell types were useful for Özel and colleagues when describing the world, they automatically satisfied rule 3. 
+A cell type created just for its own sake is not valid: one must be able to say something meaningful about the real world by employing the concept.
+The statements do not need to be true to be useful, however: a falsified hypothesis is of great value. 
+As usefulness is a subjective criterion, the number of possible cell types is constrained by one's goals.
+Thus, this rule is not intersubjectively appliable: no one can deny a claim of usefulness.
+However, it is a principle worth keeping in mind when deciding on the resolution of cell type classification.
 
-Rule 4 is a practical extension of the usefulness rule: a cell type has to be hierarchically-related to other cell types for increased usefulness.
-This means that a cell class definition is less useful if it is not explicitily cataloged considered a "subclass" of another cell type (for example, in an ontology or in a knowledge graph).
-For practical concerns, all imaginable mammalian cell types are subclasses of a "eukaryotic cell" and likely can be subclasses of more specific cell types.
-Rule 4 is presented as a recommendation instead of a requirement as, in practice, it might be overhead and not strictly necessary for tasks like claiming the discovery of a new cell type.  
 
-The ontological organization is not only valuable as a knowledge model, but it is important for integrating data across studies.
-A cell type defined by its transcriptome is not the same as one based on its electrophysiology. 
-They can, nevertheless, be connected by a superclass that matches either one or the other criterion. 
-For example, the green-OFF bipolar cells of the retina and the Syt2<sup>-</sup>/NK3R<sup>+</sup> cells of the retina are considered to be the same cell type. [@wikidata:Q34307217]  
-However, as these features are often measured separately, we have, in fact, two individual classes for which knowledge is produced. 
-These classes, then, can be combined in the superclass "(green-OFF) OR (Syt2<sup>-</sup>/NK3R<sup>+</sup>) cells" for the integration of claims across domains. Practically, when describing a cell type, one should make an effort to insert it into the universe of interrelated cell types, even if that implies creating new superclasses.
+Rule 4 is presented as a suggestion. 
+While the first 3 rules are necessary for logically coherent statements about cell types, rule 4 deals with a practical purpose.   
+A cell type, if not catalogued in an ontology or a knowledge graph, will be strictly less useful for the research community.
+Knowledge about that cell type would be valid, but would be floating adrift, without connection to the rest of human knowledge.
+
+The ontological organization is not only theoretical valuable, but it is important for integrating data across studies.
+It is logically impossible for a cell type defined by transcriptomics and another defined by electrophysiology to form an undivisible type. 
+There are (at least) 3 types there: the ones defined by each technique, and the union of those. 
+For example, the green-OFF bipolar cells of the retina and the Syt2<sup>-</sup>/NK3R<sup>+</sup> cells of the retina are considered to be the same cell type in the literature. [@wikidata:Q34307217]  
+However, as response to light and gene expression are often measured separately, knowledge is produced for two different classes. 
+These classes, then, can be combined in the superclass "(green-OFF) OR (Syt2<sup>-</sup>/NK3R<sup>+</sup>) cells". 
 
 The consequences of this set of criteria will be discussed further in sections 3 and 4. 
 
