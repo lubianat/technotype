@@ -32,7 +32,6 @@ Drosophila
 effector
 electrophysiologists
 electrophysiology
-endeavour
 entailments
 eosin
 Epithope
@@ -41,6 +40,7 @@ Epitope
 essentialist
 eukaryotic
 evolutionarily
+explicitily
 FAPESP
 favours
 Fernanda
@@ -57,7 +57,6 @@ histological
 homology
 HUBMAP
 IEDB
-imigration
 inductionally
 infratype
 infratypes
@@ -69,7 +68,6 @@ Juliane
 Junqueira’s
 Kleber
 Kuhnian
-labelling
 Leonelli
 Lovate
 Lubiana
@@ -103,19 +101,18 @@ Phenetic
 PhenoGenetic
 ploidy
 Pramio
-pratical
 pre
 preprint
 priori
 pseudocode
 RDF
-rigour
 São
 Sato
 Saulo
 sensu
 SIGLEC
 Souza
+stipe
 stricto
 subclasses
 subpopulation
@@ -133,7 +130,6 @@ Thn
 Tiago
 transcriptome
 transcriptomics
-unsupervisedly
 URI
 Vieira
 villani
