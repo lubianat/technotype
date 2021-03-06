@@ -1,7 +1,9 @@
 Aevermann
+alligns
 ameboid
 Andrejew
 appliable
+attractors
 axillary
 axiomatization
 AXL
@@ -11,6 +13,7 @@ biocurators
 Cajal
 catalogued
 Cavalcante
+CELDA
 centric
 CFTR
 citable
@@ -41,6 +44,7 @@ Epitope
 essentialist
 eukaryotic
 evolutionarily
+explicitily
 FAPESP
 favours
 Fernanda
@@ -96,8 +100,9 @@ ontologies
 Osumi
 oxyphilic
 Paulo
-phenetic
+Phenetic
 PhenoGenetic
+phenotypes
 ploidy
 Pramio
 pre
@@ -128,6 +133,7 @@ Thn
 Tiago
 transcriptomics
 undivisible
+unresolvable
 URI
 Vieira
 Villani
