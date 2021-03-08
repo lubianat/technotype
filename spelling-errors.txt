@@ -25,7 +25,7 @@ CSF
 cytometry
 dataset
 datasets
-dendritic
+Dendritic
 differentially
 Dimitrius
 Diógenes
@@ -95,7 +95,7 @@ Neves
 NK
 notatree
 omics
-Ontologically
+ontologically
 ontologies
 Osumi
 oxyphilic
@@ -136,7 +136,7 @@ undivisible
 unresolvable
 URI
 Vieira
-villani
+Villani
 Vitor
 Wikibase
 Yarkoni
