@@ -95,12 +95,12 @@ Neves
 NK
 notatree
 omics
-ontologically
+Ontologically
 ontologies
 Osumi
 oxyphilic
 Paulo
-Phenetic
+phenetic
 PhenoGenetic
 phenotypes
 ploidy
@@ -136,7 +136,7 @@ undivisible
 unresolvable
 URI
 Vieira
-Villani
+villani
 Vitor
 Wikibase
 Yarkoni

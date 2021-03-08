@@ -66,9 +66,10 @@ content/04.names.md:22:technotypes
 content/04.names.md:24:technotype
 content/04.names.md:27:technotype
 content/04.names.md:28:technotype
-content/04.names.md:30:technotypes
-content/04.names.md:31:Yarkoni
-content/04.names.md:32:inductionally
+content/04.names.md:30:technotype
+content/04.names.md:32:technotypes
+content/04.names.md:33:Yarkoni
+content/04.names.md:34:inductionally
 content/05.logical.md:4:fugacious
 content/05.logical.md:7:metaphase
 content/05.logical.md:8:metaphase
