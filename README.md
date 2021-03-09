@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/lubianat/technotype/tree/gh-pages) branch hosts the contents of this directory at <https://lubianat.github.io/technotype/>.
-The permalink for this webpage version is <https://lubianat.github.io/technotype/v/62fd0b9981f60ed2988dc908e4de6a9566c179dc/>.
+The permalink for this webpage version is <https://lubianat.github.io/technotype/v/d93fdd2b590e55d1f7190b5902f3af35ce2f77c1/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://lubianat.github.io/technotype/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`62fd0b9981f60ed2988dc908e4de6a9566c179dc`](https://github.com/lubianat/technotype/commit/62fd0b9981f60ed2988dc908e4de6a9566c179dc).
+[`d93fdd2b590e55d1f7190b5902f3af35ce2f77c1`](https://github.com/lubianat/technotype/commit/d93fdd2b590e55d1f7190b5902f3af35ce2f77c1).
