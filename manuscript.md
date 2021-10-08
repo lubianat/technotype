@@ -4,8 +4,8 @@ author-meta:
 - Helder I Nakaya
 bibliography:
 - content/manual-references.json
-date-meta: '2021-03-09'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"citation_title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"og:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"twitter:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"dc.date\" content=\"2021-03-09\" />\n<meta name=\"citation_publication_date\" content=\"2021-03-09\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<meta name=\"citation_author\" content=\"Helder I Nakaya\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5297-9108\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/technotype/v/d93fdd2b590e55d1f7190b5902f3af35ce2f77c1/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/technotype/v/d93fdd2b590e55d1f7190b5902f3af35ce2f77c1/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/technotype/v/d93fdd2b590e55d1f7190b5902f3af35ce2f77c1/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<meta property=\"og:image\" content=\"https://github.com/lubianat/technotype/raw/d93fdd2b590e55d1f7190b5902f3af35ce2f77c1/content/images/name.png\" />\n<meta property=\"twitter:image\" content=\"https://github.com/lubianat/technotype/raw/d93fdd2b590e55d1f7190b5902f3af35ce2f77c1/content/images/name.png\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+date-meta: '2021-10-08'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"citation_title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"og:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta property=\"twitter:title\" content=\"Towards a pragmatic definition of cell type\" />\n<meta name=\"dc.date\" content=\"2021-10-08\" />\n<meta name=\"citation_publication_date\" content=\"2021-10-08\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<meta name=\"citation_author\" content=\"Helder I Nakaya\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5297-9108\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/technotype/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/technotype/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/technotype/v/9f428cbcf8e8a8d2843faac684275fb0c37914ed/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/technotype/v/9f428cbcf8e8a8d2843faac684275fb0c37914ed/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/technotype/v/9f428cbcf8e8a8d2843faac684275fb0c37914ed/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<meta property=\"og:image\" content=\"https://github.com/lubianat/technotype/raw/9f428cbcf8e8a8d2843faac684275fb0c37914ed/content/images/name.png\" />\n<meta property=\"twitter:image\" content=\"https://github.com/lubianat/technotype/raw/9f428cbcf8e8a8d2843faac684275fb0c37914ed/content/images/name.png\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - cell type
 - nomenclature
@@ -25,10 +25,10 @@ title: Towards a pragmatic definition of cell type
 
 <small><em>
 This manuscript
-([permalink](https://lubianat.github.io/technotype/v/d93fdd2b590e55d1f7190b5902f3af35ce2f77c1/))
+([permalink](https://lubianat.github.io/technotype/v/9f428cbcf8e8a8d2843faac684275fb0c37914ed/))
 was automatically generated
-from [lubianat/technotype@d93fdd2](https://github.com/lubianat/technotype/tree/d93fdd2b590e55d1f7190b5902f3af35ce2f77c1)
-on March 9, 2021.
+from [lubianat/technotype@9f428cb](https://github.com/lubianat/technotype/tree/9f428cbcf8e8a8d2843faac684275fb0c37914ed)
+on October 8, 2021.
 </em></small>
 
 ## Authors
@@ -215,12 +215,12 @@ The "cross-product" of these different facets allows the logical definition of v
 For every experiment, the most granular class, combining as many facets as possible, is called here a technotype.
 
 Even if it is specific, a technotype is still a class. 
-Unless a study used only one single-cell, it likely contained some sampling method. 
-Samples are from a specific population for which hypotheses are tested. 
-The technotype is the most granular cell type, in our considered view, for research synthesis. 
+Formally, the technotype is an universal, not a continuant.
+In the words of Grenon, Smith and Goldberg, "Universals  are  the  real  invariants  or  patterns  in  the  world  apprehended  by  the  specific  sciences.  Universals  are  multiply  instantiated:  they  wholly  exist  at  different  places  and  different  times  in  the  different  particulars  which  instantiate  them." [@wikidata:Q38520561]
+It is the universal class whose instances have a certain distribution, from which we take samples and for which statistical tests are expected to hold. 
+It is the most granular cell type, in our considered view, for research synthesis. 
 The technotype is the type that we can have statements backed by experimentation (such as single-cell RNA-sequence results) without incurring logical inconsistencies.
-In an analogy, Gene Ontology annotations should be made for the most specific terms available, to avoid overstating and imprecision.   [@wikidata:Q36997786]. 
-The technotype mirrors that idea for the domain of cell types, and provides a theory to craft the absolute most specific terms to annotate experimental knowledge about cell types.
+The technotype mirrors the idea from Gene Ontology that annotations should be made for the most specific terms available, to avoid overstating and imprecision.   [@wikidata:Q36997786]. 
 As such, Gene Ontology extension annotations that provide context [@wikidata:Q33690250] should refer to technotypes whenever the goal is to maximize precision.  
 
 Single claims are made and tested for technotypes, and the claims can be logically combined in "upper" ontological levels for reaching a higher degree of universality.
@@ -307,17 +307,25 @@ We can, thus, assign each technotype a Unique Resource Identifier, a URI, simila
 The power of using knowledge graphs for integrating knowledge about cell types is gaining momentum [@wikidata:Q98665291], and they rely heavily on the precise usage of unique identifiers.
 
 The classification of cells into types and the naming of cell types are parallel tasks. While there has been progress on rules for naming cell types (particularly in neuroscience [@wikidata:Q104247451; @wikidata:Q64065346; @wikidata:Q37656899]), the nomenclature is outside the scope of this article.
-Using identifiers/URIs without semantic sense already suffices for our purposes. Semantically void identifiers also help us steer away from the Aristotelian essentialist view upon cell types, as Rowe and Stone discussed in 1977 [@wikidata:Q41052480].
-Identifiers can have labels that can be freely changed while keeping a persistent URI. Our effort to refine the logical aspects of cell-type definitions can be combined with any commonly agreed naming/labeling system. 
+Using identifiers/URIs without using words from any language suffices for our purposes.
+Alpha-numeric identifiers, as a side benefit, help us steer away from the Aristotelian essentialist view upon cell types, as discussed at least since 1977 [@wikidata:Q41052480].
+Identifiers can have labels that can be freely changed while keeping a persistent URI.
+Our effort to refine the logical aspects of cell-type definitions can be combined with any commonly agreed naming/labeling system. 
 
-The URIs at the level of technotype allow precise labeling of cell types in real-world experiments. The technotype annotation empowers researchers to craft their cell type of interest and connect this cell type to a shared knowledge network.
+The URIs at the level of technotype allow precise labeling of cell types in real-world experiments. 
+The technotype annotation empowers researchers to craft their cell type of interest and connect this cell type to a shared knowledge network.
 Several single-cell transcriptomics tools try to assign labels to cells.
 While some approaches avoid ontologies [@doi:10.1093/nar/gkz543; @wikidata:Q104371272], others  utilize the Cell Ontology [@wikidata:Q101074371; @doi:10.1038/s41467-020-17281-7; @wikidata:Q104057222] or MeSH IDs [@wikidata:Q104371393; @doi:10.1038/s41467-020-17281-7] to identify the most likely cell type label for each cell or cell cluster.
-Different studies, however, almost always study different technotypes.
-Thus, the task of finding the exact type of cells in a given experiment, algorithms could try to find where the new technotypes should be inserted in an ontological network.
-For example, instead of claiming that cells from study A and study B are myeloid dendritic cells, we can claim that both cell types belong to the myeloid dendritic cell branch.
-By embracing these real differences between studies (and cells), the study's precise metadata will enable a precise statement of the cell type.
-This will ultimately allow the coherent reuse of publicly available data. 
+Others go as far as defining markers of interest a priori (like Garnett[@wikidata:Q90003307]]), which goes in the direction of having a explicit definition for the cell types in the study, providing clearer interpretations of results.
+There is a clear rush towards tools to "call" cell types. 
+
+However, all of the tools so far only call broad cell types. 
+The same name is used for different animals, different life stages or different genders. 
+Cell types across this different situations are known to (at least ocasionally) have different properties.
+By assingning a general name instead of a more precise one, we are deliberately introducing noise and making it easier to build up nonsense.
+By finding very particular technotypes, and then linking them to the general superclasses, the existent algorithms would
+For example, instead of claiming that cells from study A and study B are instances of "myeloid dendritic cells", we can be more precise, and say that the cells are instances of either the technotypes A or B and that A and B are subclasses of "myeloid dendritic cell".
+The payoff of this extra step is the coherent reuse of publicly available data and a better long term management of conflicting knowledge. 
 
 This flexible yet rigorous framework for defining cell types can help us deal with the challenges of varying resolution levels of interest and scaling large datasets. [doi:10.1186/s13059-020-1926-6] The need for an identification routine for cell-type taxonomies is acknowledge for more than 45 years [@wikidata:Q34065481] and still is a core challenge of human cell-type atlases  [doi:10.1186/s13059-020-1926-6]. The quest for data-driven cell classification is at least as old [@wikidata:Q34065481]. The framework here proposed provides ideas to improve our solutions to both tasks.
 
